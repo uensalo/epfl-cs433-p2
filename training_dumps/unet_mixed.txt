@@ -1,0 +1,2305 @@
+ 0%|          | 0/50 [00:00<?, ?it/s]
+Starting training with eta=0.0003 for 50 epochs, with batch size 5
+Training for Epoch 1 starting:
+Epoch 1, avg running_loss: 0.6033667325973511
+Epoch 1, avg running_loss: 0.5608537197113037
+Epoch 1, avg running_loss: 0.5571504831314087
+Epoch 1, avg running_loss: 0.5420358777046204
+Epoch 1, avg running_loss: 0.5229474306106567
+Epoch 1, avg running_loss: 0.512343168258667
+Epoch 1, avg running_loss: 0.512636125087738
+Epoch 1, avg running_loss: 0.5026893615722656
+Epoch 1, avg running_loss: 0.4897204339504242
+Epoch 1, avg running_loss: 0.4832352101802826
+Epoch 1, avg running_loss: 0.4762689173221588
+Epoch 1, avg running_loss: 0.4870179295539856
+Epoch 1, avg running_loss: 0.4883718490600586
+Epoch 1, avg running_loss: 0.47046738862991333
+Epoch 1, avg running_loss: 0.48538532853126526
+Epoch 1, avg running_loss: 0.467516154050827
+Epoch 1, avg running_loss: 0.4424801766872406
+Epoch 1, avg running_loss: 0.45273837447166443
+Validation for Epoch 1 starting:
+Training loss for 1:90.57225036621094
+Validation loss for 1:0.8235962390899658
+  2%|▏         | 1/50 [01:23<1:08:05, 83.38s/it]
+Training for Epoch 2 starting:
+Epoch 2, avg running_loss: 0.43151435256004333
+Epoch 2, avg running_loss: 0.4412139356136322
+Epoch 2, avg running_loss: 0.4275352954864502
+Epoch 2, avg running_loss: 0.43471288681030273
+Epoch 2, avg running_loss: 0.42066246271133423
+Epoch 2, avg running_loss: 0.39434581995010376
+Epoch 2, avg running_loss: 0.39079275727272034
+Epoch 2, avg running_loss: 0.39067748188972473
+Epoch 2, avg running_loss: 0.4018869996070862
+Epoch 2, avg running_loss: 0.4094318449497223
+Epoch 2, avg running_loss: 0.3728080689907074
+Epoch 2, avg running_loss: 0.39100199937820435
+Epoch 2, avg running_loss: 0.37369340658187866
+Epoch 2, avg running_loss: 0.3647589385509491
+Epoch 2, avg running_loss: 0.33314427733421326
+Epoch 2, avg running_loss: 0.34443801641464233
+Epoch 2, avg running_loss: 0.3237343430519104
+Epoch 2, avg running_loss: 0.32060274481773376
+Validation for Epoch 2 starting:
+Training loss for 2:69.66954040527344
+Validation loss for 2:0.6043307781219482
+  4%|▍         | 2/50 [02:46<1:06:34, 83.21s/it]
+Training for Epoch 3 starting:
+Epoch 3, avg running_loss: 0.3352801501750946
+Epoch 3, avg running_loss: 0.3147083818912506
+Epoch 3, avg running_loss: 0.3304552733898163
+Epoch 3, avg running_loss: 0.31690239906311035
+Epoch 3, avg running_loss: 0.3315157890319824
+Epoch 3, avg running_loss: 0.2933553457260132
+Epoch 3, avg running_loss: 0.303188294172287
+Epoch 3, avg running_loss: 0.2608835697174072
+Epoch 3, avg running_loss: 0.28133073449134827
+Epoch 3, avg running_loss: 0.2928129732608795
+Epoch 3, avg running_loss: 0.3328462243080139
+Epoch 3, avg running_loss: 0.2511430084705353
+Epoch 3, avg running_loss: 0.2728138566017151
+Epoch 3, avg running_loss: 0.280969500541687
+Epoch 3, avg running_loss: 0.3104476034641266
+Epoch 3, avg running_loss: 0.28109145164489746
+Epoch 3, avg running_loss: 0.2905961871147156
+Epoch 3, avg running_loss: 0.2737654745578766
+Validation for Epoch 3 starting:
+Training loss for 3:53.54104995727539
+Validation loss for 3:0.47965484857559204
+  6%|▌         | 3/50 [04:09<1:05:07, 83.15s/it]
+Training for Epoch 4 starting:
+Epoch 4, avg running_loss: 0.2853035628795624
+Epoch 4, avg running_loss: 0.2640688717365265
+Epoch 4, avg running_loss: 0.2707955241203308
+Epoch 4, avg running_loss: 0.2779826819896698
+Epoch 4, avg running_loss: 0.25947272777557373
+Epoch 4, avg running_loss: 0.23913565278053284
+Epoch 4, avg running_loss: 0.25275087356567383
+Epoch 4, avg running_loss: 0.24145376682281494
+Epoch 4, avg running_loss: 0.22165162861347198
+Epoch 4, avg running_loss: 0.24382555484771729
+Epoch 4, avg running_loss: 0.20835888385772705
+Epoch 4, avg running_loss: 0.22984233498573303
+Epoch 4, avg running_loss: 0.22643183171749115
+Epoch 4, avg running_loss: 0.25004294514656067
+Epoch 4, avg running_loss: 0.23089705407619476
+Epoch 4, avg running_loss: 0.22157184779644012
+Epoch 4, avg running_loss: 0.2212328016757965
+Epoch 4, avg running_loss: 0.2110767811536789
+Validation for Epoch 4 starting:
+Training loss for 4:43.5589485168457
+Validation loss for 4:0.4482174515724182
+  8%|▊         | 4/50 [05:32<1:03:41, 83.08s/it]
+Training for Epoch 5 starting:
+Epoch 5, avg running_loss: 0.23453223705291748
+Epoch 5, avg running_loss: 0.21613553166389465
+Epoch 5, avg running_loss: 0.21431374549865723
+Epoch 5, avg running_loss: 0.19596758484840393
+Epoch 5, avg running_loss: 0.21739864349365234
+Epoch 5, avg running_loss: 0.2060628980398178
+Epoch 5, avg running_loss: 0.20553521811962128
+Epoch 5, avg running_loss: 0.1959025263786316
+Epoch 5, avg running_loss: 0.20064035058021545
+Epoch 5, avg running_loss: 0.1905507594347
+Epoch 5, avg running_loss: 0.20902970433235168
+Epoch 5, avg running_loss: 0.19283300638198853
+Epoch 5, avg running_loss: 0.1594112068414688
+Epoch 5, avg running_loss: 0.18705855309963226
+Epoch 5, avg running_loss: 0.18650631606578827
+Epoch 5, avg running_loss: 0.21737520396709442
+Epoch 5, avg running_loss: 0.21550095081329346
+Epoch 5, avg running_loss: 0.207833930850029
+Validation for Epoch 5 starting:
+Training loss for 5:36.525875091552734
+Validation loss for 5:0.43604642152786255
+ 10%|█         | 5/50 [06:55<1:02:17, 83.06s/it]
+Training for Epoch 6 starting:
+Epoch 6, avg running_loss: 0.1860239952802658
+Epoch 6, avg running_loss: 0.20641373097896576
+Epoch 6, avg running_loss: 0.17952892184257507
+Epoch 6, avg running_loss: 0.19239382445812225
+Epoch 6, avg running_loss: 0.1772233247756958
+Epoch 6, avg running_loss: 0.1894117146730423
+Epoch 6, avg running_loss: 0.1526351124048233
+Epoch 6, avg running_loss: 0.1766853779554367
+Epoch 6, avg running_loss: 0.19851849973201752
+Epoch 6, avg running_loss: 0.1899387240409851
+Epoch 6, avg running_loss: 0.174805149435997
+Epoch 6, avg running_loss: 0.1830366551876068
+Epoch 6, avg running_loss: 0.17505453526973724
+Epoch 6, avg running_loss: 0.16931100189685822
+Epoch 6, avg running_loss: 0.16873688995838165
+Epoch 6, avg running_loss: 0.19446629285812378
+Epoch 6, avg running_loss: 0.15889860689640045
+Epoch 6, avg running_loss: 0.14135701954364777
+Validation for Epoch 6 starting:
+Training loss for 6:32.144386291503906
+Validation loss for 6:0.4087991714477539
+ 12%|█▏        | 6/50 [08:18<1:00:52, 83.02s/it]
+Training for Epoch 7 starting:
+Epoch 7, avg running_loss: 0.1554414927959442
+Epoch 7, avg running_loss: 0.1533510535955429
+Epoch 7, avg running_loss: 0.18875949084758759
+Epoch 7, avg running_loss: 0.2089473307132721
+Epoch 7, avg running_loss: 0.22223205864429474
+Epoch 7, avg running_loss: 0.21090777218341827
+Epoch 7, avg running_loss: 0.1804642379283905
+Epoch 7, avg running_loss: 0.1761075258255005
+Epoch 7, avg running_loss: 0.17463722825050354
+Epoch 7, avg running_loss: 0.16318975389003754
+Epoch 7, avg running_loss: 0.17157191038131714
+Epoch 7, avg running_loss: 0.15352822840213776
+Epoch 7, avg running_loss: 0.15212075412273407
+Epoch 7, avg running_loss: 0.15765519440174103
+Epoch 7, avg running_loss: 0.1493973582983017
+Epoch 7, avg running_loss: 0.14832262694835663
+Epoch 7, avg running_loss: 0.17570823431015015
+Epoch 7, avg running_loss: 0.17310209572315216
+Validation for Epoch 7 starting:
+Training loss for 7:31.154443740844727
+Validation loss for 7:0.3866627514362335
+ 14%|█▍        | 7/50 [09:41<59:29, 83.02s/it]  
+Training for Epoch 8 starting:
+Epoch 8, avg running_loss: 0.16561934351921082
+Epoch 8, avg running_loss: 0.16095803678035736
+Epoch 8, avg running_loss: 0.14986491203308105
+Epoch 8, avg running_loss: 0.14834295213222504
+Epoch 8, avg running_loss: 0.1522039920091629
+Epoch 8, avg running_loss: 0.14681553840637207
+Epoch 8, avg running_loss: 0.15693293511867523
+Epoch 8, avg running_loss: 0.16563093662261963
+Epoch 8, avg running_loss: 0.16251978278160095
+Epoch 8, avg running_loss: 0.15901200473308563
+Epoch 8, avg running_loss: 0.132368803024292
+Epoch 8, avg running_loss: 0.15546701848506927
+Epoch 8, avg running_loss: 0.15887583792209625
+Epoch 8, avg running_loss: 0.15411582589149475
+Epoch 8, avg running_loss: 0.15318284928798676
+Epoch 8, avg running_loss: 0.15577517449855804
+Epoch 8, avg running_loss: 0.16008970141410828
+Epoch 8, avg running_loss: 0.13922598958015442
+Validation for Epoch 8 starting:
+Training loss for 8:27.77000617980957
+Validation loss for 8:0.3339308798313141
+ 16%|█▌        | 8/50 [11:04<58:07, 83.02s/it]
+Training for Epoch 9 starting:
+Epoch 9, avg running_loss: 0.16317959129810333
+Epoch 9, avg running_loss: 0.12993262708187103
+Epoch 9, avg running_loss: 0.1497594565153122
+Epoch 9, avg running_loss: 0.14141051471233368
+Epoch 9, avg running_loss: 0.15617111325263977
+Epoch 9, avg running_loss: 0.148305281996727
+Epoch 9, avg running_loss: 0.15267828106880188
+Epoch 9, avg running_loss: 0.13748300075531006
+Epoch 9, avg running_loss: 0.12952792644500732
+Epoch 9, avg running_loss: 0.1382327526807785
+Epoch 9, avg running_loss: 0.13873913884162903
+Epoch 9, avg running_loss: 0.14370405673980713
+Epoch 9, avg running_loss: 0.1428895890712738
+Epoch 9, avg running_loss: 0.12590712308883667
+Epoch 9, avg running_loss: 0.13848228752613068
+Epoch 9, avg running_loss: 0.14315898716449738
+Epoch 9, avg running_loss: 0.146120086312294
+Epoch 9, avg running_loss: 0.142510324716568
+Validation for Epoch 9 starting:
+Training loss for 9:25.68191909790039
+Validation loss for 9:0.37847545742988586
+ 18%|█▊        | 9/50 [12:27<56:43, 83.01s/it]
+Training for Epoch 10 starting:
+Epoch 10, avg running_loss: 0.12140090763568878
+Epoch 10, avg running_loss: 0.12593388557434082
+Epoch 10, avg running_loss: 0.1552613228559494
+Epoch 10, avg running_loss: 0.16924726963043213
+Epoch 10, avg running_loss: 0.1339818686246872
+Epoch 10, avg running_loss: 0.1563258320093155
+Epoch 10, avg running_loss: 0.16259364783763885
+Epoch 10, avg running_loss: 0.19247101247310638
+Epoch 10, avg running_loss: 0.16866128146648407
+Epoch 10, avg running_loss: 0.17356620728969574
+Epoch 10, avg running_loss: 0.1386154145002365
+Epoch 10, avg running_loss: 0.12389787286520004
+Epoch 10, avg running_loss: 0.1433435082435608
+Epoch 10, avg running_loss: 0.13586996495723724
+Epoch 10, avg running_loss: 0.11727656424045563
+Epoch 10, avg running_loss: 0.1308215707540512
+Epoch 10, avg running_loss: 0.12827390432357788
+Epoch 10, avg running_loss: 0.12023978680372238
+Validation for Epoch 10 starting:
+Training loss for 10:25.977811813354492
+Validation loss for 10:0.4419401288032532
+ 20%|██        | 10/50 [13:50<55:20, 83.00s/it]
+Training for Epoch 11 starting:
+Epoch 11, avg running_loss: 0.12312342971563339
+Epoch 11, avg running_loss: 0.10821085423231125
+Epoch 11, avg running_loss: 0.13014788925647736
+Epoch 11, avg running_loss: 0.14285622537136078
+Epoch 11, avg running_loss: 0.13527098298072815
+Epoch 11, avg running_loss: 0.14539968967437744
+Epoch 11, avg running_loss: 0.14229820668697357
+Epoch 11, avg running_loss: 0.11273814737796783
+Epoch 11, avg running_loss: 0.1252819299697876
+Epoch 11, avg running_loss: 0.12834136188030243
+Epoch 11, avg running_loss: 0.1311994194984436
+Epoch 11, avg running_loss: 0.12074533849954605
+Epoch 11, avg running_loss: 0.13212628662586212
+Epoch 11, avg running_loss: 0.1280239075422287
+Epoch 11, avg running_loss: 0.1190277710556984
+Epoch 11, avg running_loss: 0.13218314945697784
+Epoch 11, avg running_loss: 0.11699116230010986
+Epoch 11, avg running_loss: 0.11040443181991577
+Validation for Epoch 11 starting:
+Training loss for 11:22.843700408935547
+Validation loss for 11:0.32998985052108765
+ 22%|██▏       | 11/50 [15:12<53:56, 82.98s/it]
+Training for Epoch 12 starting:
+Epoch 12, avg running_loss: 0.1158985123038292
+Epoch 12, avg running_loss: 0.12010569870471954
+Epoch 12, avg running_loss: 0.11470111459493637
+Epoch 12, avg running_loss: 0.11023665964603424
+Epoch 12, avg running_loss: 0.10125583410263062
+Epoch 12, avg running_loss: 0.10994920879602432
+Epoch 12, avg running_loss: 0.11143755167722702
+Epoch 12, avg running_loss: 0.12208129465579987
+Epoch 12, avg running_loss: 0.12113946676254272
+Epoch 12, avg running_loss: 0.13491730391979218
+Epoch 12, avg running_loss: 0.11106013506650925
+Epoch 12, avg running_loss: 0.12232267111539841
+Epoch 12, avg running_loss: 0.11542234569787979
+Epoch 12, avg running_loss: 0.11868248134851456
+Epoch 12, avg running_loss: 0.10878882557153702
+Epoch 12, avg running_loss: 0.1115136370062828
+Epoch 12, avg running_loss: 0.1346646100282669
+Epoch 12, avg running_loss: 0.13372085988521576
+Validation for Epoch 12 starting:
+Training loss for 12:21.17898178100586
+Validation loss for 12:0.47934532165527344
+ 24%|██▍       | 12/50 [16:35<52:29, 82.89s/it]
+Training for Epoch 13 starting:
+Epoch 13, avg running_loss: 0.13637720048427582
+Epoch 13, avg running_loss: 0.11975684016942978
+Epoch 13, avg running_loss: 0.1231648251414299
+Epoch 13, avg running_loss: 0.11616390198469162
+Epoch 13, avg running_loss: 0.10589835792779922
+Epoch 13, avg running_loss: 0.08893906325101852
+Epoch 13, avg running_loss: 0.12093684822320938
+Epoch 13, avg running_loss: 0.10332377254962921
+Epoch 13, avg running_loss: 0.127359077334404
+Epoch 13, avg running_loss: 0.10527216643095016
+Epoch 13, avg running_loss: 0.10396505892276764
+Epoch 13, avg running_loss: 0.09709199517965317
+Epoch 13, avg running_loss: 0.10056252777576447
+Epoch 13, avg running_loss: 0.08827308565378189
+Epoch 13, avg running_loss: 0.1087205782532692
+Epoch 13, avg running_loss: 0.09506925940513611
+Epoch 13, avg running_loss: 0.09683986753225327
+Epoch 13, avg running_loss: 0.09856700897216797
+Validation for Epoch 13 starting:
+Training loss for 13:19.362821578979492
+Validation loss for 13:0.38506025075912476
+ 26%|██▌       | 13/50 [17:58<51:04, 82.83s/it]
+Training for Epoch 14 starting:
+Epoch 14, avg running_loss: 0.08971349895000458
+Epoch 14, avg running_loss: 0.10162875801324844
+Epoch 14, avg running_loss: 0.09827050566673279
+Epoch 14, avg running_loss: 0.16353563964366913
+Epoch 14, avg running_loss: 0.17396655678749084
+Epoch 14, avg running_loss: 0.1567925363779068
+Epoch 14, avg running_loss: 0.16239121556282043
+Epoch 14, avg running_loss: 0.13744060695171356
+Epoch 14, avg running_loss: 0.1312292218208313
+Epoch 14, avg running_loss: 0.1347600668668747
+Epoch 14, avg running_loss: 0.13011223077774048
+Epoch 14, avg running_loss: 0.10899589210748672
+Epoch 14, avg running_loss: 0.1110214963555336
+Epoch 14, avg running_loss: 0.1273849457502365
+Epoch 14, avg running_loss: 0.12462367862462997
+Epoch 14, avg running_loss: 0.11832689493894577
+Epoch 14, avg running_loss: 0.12569893896579742
+Epoch 14, avg running_loss: 0.10965534299612045
+Validation for Epoch 14 starting:
+Training loss for 14:23.05548095703125
+Validation loss for 14:0.3769676089286804
+ 28%|██▊       | 14/50 [19:21<49:40, 82.79s/it]
+Training for Epoch 15 starting:
+Epoch 15, avg running_loss: 0.11343494802713394
+Epoch 15, avg running_loss: 0.10107006132602692
+Epoch 15, avg running_loss: 0.10123278200626373
+Epoch 15, avg running_loss: 0.10695735365152359
+Epoch 15, avg running_loss: 0.09289532899856567
+Epoch 15, avg running_loss: 0.09861736744642258
+Epoch 15, avg running_loss: 0.11701538413763046
+Epoch 15, avg running_loss: 0.09423280507326126
+Epoch 15, avg running_loss: 0.09472262859344482
+Epoch 15, avg running_loss: 0.09798222035169601
+Epoch 15, avg running_loss: 0.10318614542484283
+Epoch 15, avg running_loss: 0.09336601942777634
+Epoch 15, avg running_loss: 0.09791096299886703
+Epoch 15, avg running_loss: 0.09644301235675812
+Epoch 15, avg running_loss: 0.10263412445783615
+Epoch 15, avg running_loss: 0.1097593680024147
+Epoch 15, avg running_loss: 0.0908110961318016
+Epoch 15, avg running_loss: 0.09883888065814972
+Validation for Epoch 15 starting:
+Training loss for 15:18.111101150512695
+Validation loss for 15:0.5240669250488281
+ 30%|███       | 15/50 [20:43<48:17, 82.78s/it]
+Training for Epoch 16 starting:
+Epoch 16, avg running_loss: 0.09233706444501877
+Epoch 16, avg running_loss: 0.09482096880674362
+Epoch 16, avg running_loss: 0.09526115655899048
+Epoch 16, avg running_loss: 0.0935317873954773
+Epoch 16, avg running_loss: 0.09013822674751282
+Epoch 16, avg running_loss: 0.09252653270959854
+Epoch 16, avg running_loss: 0.09098601341247559
+Epoch 16, avg running_loss: 0.09804663807153702
+Epoch 16, avg running_loss: 0.08898825198411942
+Epoch 16, avg running_loss: 0.08835308998823166
+Epoch 16, avg running_loss: 0.08515843749046326
+Epoch 16, avg running_loss: 0.08126988261938095
+Epoch 16, avg running_loss: 0.08591470867395401
+Epoch 16, avg running_loss: 0.092397540807724
+Epoch 16, avg running_loss: 0.08724676817655563
+Epoch 16, avg running_loss: 0.0806947723031044
+Epoch 16, avg running_loss: 0.08624028414487839
+Epoch 16, avg running_loss: 0.09130344539880753
+Validation for Epoch 16 starting:
+Training loss for 16:16.152158737182617
+Validation loss for 16:0.4255582094192505
+ 32%|███▏      | 16/50 [22:06<46:54, 82.77s/it]
+Training for Epoch 17 starting:
+Epoch 17, avg running_loss: 0.0918789878487587
+Epoch 17, avg running_loss: 0.0789705142378807
+Epoch 17, avg running_loss: 0.08450686186552048
+Epoch 17, avg running_loss: 0.09261439740657806
+Epoch 17, avg running_loss: 0.09401218593120575
+Epoch 17, avg running_loss: 0.08246438205242157
+Epoch 17, avg running_loss: 0.08844957500696182
+Epoch 17, avg running_loss: 0.08091437071561813
+Epoch 17, avg running_loss: 0.08697419613599777
+Epoch 17, avg running_loss: 0.09144142270088196
+Epoch 17, avg running_loss: 0.09330731630325317
+Epoch 17, avg running_loss: 0.08173011988401413
+Epoch 17, avg running_loss: 0.08221405744552612
+Epoch 17, avg running_loss: 0.08287981897592545
+Epoch 17, avg running_loss: 0.08061905205249786
+Epoch 17, avg running_loss: 0.08231894671916962
+Epoch 17, avg running_loss: 0.07930924743413925
+Epoch 17, avg running_loss: 0.07422342151403427
+Validation for Epoch 17 starting:
+Training loss for 17:15.288285255432129
+Validation loss for 17:0.42675578594207764
+ 34%|███▍      | 17/50 [23:29<45:31, 82.76s/it]
+Training for Epoch 18 starting:
+Epoch 18, avg running_loss: 0.07650173455476761
+Epoch 18, avg running_loss: 0.09327773749828339
+Epoch 18, avg running_loss: 0.06757989525794983
+Epoch 18, avg running_loss: 0.07755497097969055
+Epoch 18, avg running_loss: 0.08185175806283951
+Epoch 18, avg running_loss: 0.08391480892896652
+Epoch 18, avg running_loss: 0.07838030159473419
+Epoch 18, avg running_loss: 0.0770997628569603
+Epoch 18, avg running_loss: 0.07699551433324814
+Epoch 18, avg running_loss: 0.07875455170869827
+Epoch 18, avg running_loss: 0.08234883099794388
+Epoch 18, avg running_loss: 0.08254969120025635
+Epoch 18, avg running_loss: 0.08756284415721893
+Epoch 18, avg running_loss: 0.08235496282577515
+Epoch 18, avg running_loss: 0.08025003969669342
+Epoch 18, avg running_loss: 0.08725547045469284
+Epoch 18, avg running_loss: 0.07976765930652618
+Epoch 18, avg running_loss: 0.08242718875408173
+Validation for Epoch 18 starting:
+Training loss for 18:14.564279556274414
+Validation loss for 18:0.3649755120277405
+ 36%|███▌      | 18/50 [24:51<44:07, 82.74s/it]
+Training for Epoch 19 starting:
+Epoch 19, avg running_loss: 0.08917181938886642
+Epoch 19, avg running_loss: 0.07845978438854218
+Epoch 19, avg running_loss: 0.074876569211483
+Epoch 19, avg running_loss: 0.07307801395654678
+Epoch 19, avg running_loss: 0.07395883649587631
+Epoch 19, avg running_loss: 0.07417970150709152
+Epoch 19, avg running_loss: 0.07174302637577057
+Epoch 19, avg running_loss: 0.07568760961294174
+Epoch 19, avg running_loss: 0.07311451435089111
+Epoch 19, avg running_loss: 0.08319606631994247
+Epoch 19, avg running_loss: 0.07009418308734894
+Epoch 19, avg running_loss: 0.08103739470243454
+Epoch 19, avg running_loss: 0.10715879499912262
+Epoch 19, avg running_loss: 0.08106227219104767
+Epoch 19, avg running_loss: 0.09642863273620605
+Epoch 19, avg running_loss: 0.11986591666936874
+Epoch 19, avg running_loss: 0.09356334060430527
+Epoch 19, avg running_loss: 0.10265018045902252
+Validation for Epoch 19 starting:
+Training loss for 19:15.193265914916992
+Validation loss for 19:0.36199951171875
+ 38%|███▊      | 19/50 [26:14<42:44, 82.71s/it]
+Training for Epoch 20 starting:
+Epoch 20, avg running_loss: 0.08837764710187912
+Epoch 20, avg running_loss: 0.09066478163003922
+Epoch 20, avg running_loss: 0.08464828133583069
+Epoch 20, avg running_loss: 0.08112263679504395
+Epoch 20, avg running_loss: 0.08347796648740768
+Epoch 20, avg running_loss: 0.0908515527844429
+Epoch 20, avg running_loss: 0.09155827760696411
+Epoch 20, avg running_loss: 0.09484647214412689
+Epoch 20, avg running_loss: 0.09948748350143433
+Epoch 20, avg running_loss: 0.08292701840400696
+Epoch 20, avg running_loss: 0.0817151814699173
+Epoch 20, avg running_loss: 0.08086623251438141
+Epoch 20, avg running_loss: 0.08623280376195908
+Epoch 20, avg running_loss: 0.07897395640611649
+Epoch 20, avg running_loss: 0.07240354269742966
+Epoch 20, avg running_loss: 0.07023108005523682
+Epoch 20, avg running_loss: 0.07199082523584366
+Epoch 20, avg running_loss: 0.07067446410655975
+Validation for Epoch 20 starting:
+Training loss for 20:15.010499954223633
+Validation loss for 20:0.41539472341537476
+ 40%|████      | 20/50 [27:37<41:20, 82.70s/it]
+Training for Epoch 21 starting:
+Epoch 21, avg running_loss: 0.07065965980291367
+Epoch 21, avg running_loss: 0.06908151507377625
+Epoch 21, avg running_loss: 0.07302766293287277
+Epoch 21, avg running_loss: 0.07111164182424545
+Epoch 21, avg running_loss: 0.07274876534938812
+Epoch 21, avg running_loss: 0.07003593444824219
+Epoch 21, avg running_loss: 0.06363975256681442
+Epoch 21, avg running_loss: 0.0681319609284401
+Epoch 21, avg running_loss: 0.07411812990903854
+Epoch 21, avg running_loss: 0.0688106119632721
+Epoch 21, avg running_loss: 0.06757336109876633
+Epoch 21, avg running_loss: 0.07454776018857956
+Epoch 21, avg running_loss: 0.06920208781957626
+Epoch 21, avg running_loss: 0.06831791251897812
+Epoch 21, avg running_loss: 0.06810656934976578
+Epoch 21, avg running_loss: 0.06778079271316528
+Epoch 21, avg running_loss: 0.0701187327504158
+Epoch 21, avg running_loss: 0.06716512888669968
+Validation for Epoch 21 starting:
+Training loss for 21:12.54178237915039
+Validation loss for 21:0.4646663963794708
+ 42%|████▏     | 21/50 [29:00<39:58, 82.70s/it]
+Training for Epoch 22 starting:
+Epoch 22, avg running_loss: 0.0709853544831276
+Epoch 22, avg running_loss: 0.06027550622820854
+Epoch 22, avg running_loss: 0.06795477122068405
+Epoch 22, avg running_loss: 0.059200774878263474
+Epoch 22, avg running_loss: 0.060708221048116684
+Epoch 22, avg running_loss: 0.06576429307460785
+Epoch 22, avg running_loss: 0.06140821799635887
+Epoch 22, avg running_loss: 0.07843656837940216
+Epoch 22, avg running_loss: 0.06601817160844803
+Epoch 22, avg running_loss: 0.06429173797369003
+Epoch 22, avg running_loss: 0.06612208485603333
+Epoch 22, avg running_loss: 0.069985032081604
+Epoch 22, avg running_loss: 0.07334469258785248
+Epoch 22, avg running_loss: 0.07179189473390579
+Epoch 22, avg running_loss: 0.06730842590332031
+Epoch 22, avg running_loss: 0.06882598251104355
+Epoch 22, avg running_loss: 0.07185583561658859
+Epoch 22, avg running_loss: 0.06083709001541138
+Validation for Epoch 22 starting:
+Training loss for 22:12.051145553588867
+Validation loss for 22:0.5271463990211487
+ 44%|████▍     | 22/50 [30:22<38:35, 82.70s/it]
+Training for Epoch 23 starting:
+Epoch 23, avg running_loss: 0.06273304671049118
+Epoch 23, avg running_loss: 0.0659446194767952
+Epoch 23, avg running_loss: 0.0667041689157486
+Epoch 23, avg running_loss: 0.068573497235775
+Epoch 23, avg running_loss: 0.06464006751775742
+Epoch 23, avg running_loss: 0.07275082170963287
+Epoch 23, avg running_loss: 0.06215853616595268
+Epoch 23, avg running_loss: 0.06508780270814896
+Epoch 23, avg running_loss: 0.06559143960475922
+Epoch 23, avg running_loss: 0.05911707878112793
+Epoch 23, avg running_loss: 0.06278689950704575
+Epoch 23, avg running_loss: 0.070433109998703
+Epoch 23, avg running_loss: 0.07154417037963867
+Epoch 23, avg running_loss: 0.07273196429014206
+Epoch 23, avg running_loss: 0.07551135122776031
+Epoch 23, avg running_loss: 0.07457955181598663
+Epoch 23, avg running_loss: 0.07007764279842377
+Epoch 23, avg running_loss: 0.06623513251543045
+Validation for Epoch 23 starting:
+Training loss for 23:12.17200756072998
+Validation loss for 23:0.3824188709259033
+ 46%|████▌     | 23/50 [31:45<37:12, 82.70s/it]
+Training for Epoch 24 starting:
+Epoch 24, avg running_loss: 0.0640566274523735
+Epoch 24, avg running_loss: 0.0588185153901577
+Epoch 24, avg running_loss: 0.06312788277864456
+Epoch 24, avg running_loss: 0.06801461428403854
+Epoch 24, avg running_loss: 0.06093177944421768
+Epoch 24, avg running_loss: 0.0646216869354248
+Epoch 24, avg running_loss: 0.06308349967002869
+Epoch 24, avg running_loss: 0.06396607309579849
+Epoch 24, avg running_loss: 0.06765080988407135
+Epoch 24, avg running_loss: 0.06258896738290787
+Epoch 24, avg running_loss: 0.05905122309923172
+Epoch 24, avg running_loss: 0.053735312074422836
+Epoch 24, avg running_loss: 0.060561735183000565
+Epoch 24, avg running_loss: 0.05549439787864685
+Epoch 24, avg running_loss: 0.0607132688164711
+Epoch 24, avg running_loss: 0.06242873892188072
+Epoch 24, avg running_loss: 0.06056686118245125
+Epoch 24, avg running_loss: 0.05969430133700371
+Validation for Epoch 24 starting:
+Training loss for 24:11.091059684753418
+Validation loss for 24:0.4527266025543213
+ 48%|████▊     | 24/50 [33:08<35:49, 82.68s/it]
+Training for Epoch 25 starting:
+Epoch 25, avg running_loss: 0.05264797806739807
+Epoch 25, avg running_loss: 0.05915015563368797
+Epoch 25, avg running_loss: 0.05695454031229019
+Epoch 25, avg running_loss: 0.05319115146994591
+Epoch 25, avg running_loss: 0.05483074113726616
+Epoch 25, avg running_loss: 0.057666875422000885
+Epoch 25, avg running_loss: 0.05828235670924187
+Epoch 25, avg running_loss: 0.060161955654621124
+Epoch 25, avg running_loss: 0.06120312213897705
+Epoch 25, avg running_loss: 0.060113575309515
+Epoch 25, avg running_loss: 0.059603042900562286
+Epoch 25, avg running_loss: 0.0603843629360199
+Epoch 25, avg running_loss: 0.061818867921829224
+Epoch 25, avg running_loss: 0.06531205028295517
+Epoch 25, avg running_loss: 0.06349296122789383
+Epoch 25, avg running_loss: 0.06029650196433067
+Epoch 25, avg running_loss: 0.0641317293047905
+Epoch 25, avg running_loss: 0.06386738270521164
+Validation for Epoch 25 starting:
+Training loss for 25:10.731096267700195
+Validation loss for 25:0.5554189085960388
+ 50%|█████     | 25/50 [34:30<34:27, 82.69s/it]
+Training for Epoch 26 starting:
+Epoch 26, avg running_loss: 0.05460038408637047
+Epoch 26, avg running_loss: 0.061709340661764145
+Epoch 26, avg running_loss: 0.05597095564007759
+Epoch 26, avg running_loss: 0.05132129788398743
+Epoch 26, avg running_loss: 0.05716204270720482
+Epoch 26, avg running_loss: 0.05268048867583275
+Epoch 26, avg running_loss: 0.058994829654693604
+Epoch 26, avg running_loss: 0.07317160069942474
+Epoch 26, avg running_loss: 0.09403280168771744
+Epoch 26, avg running_loss: 0.10424013435840607
+Epoch 26, avg running_loss: 0.09480505436658859
+Epoch 26, avg running_loss: 0.08457016199827194
+Epoch 26, avg running_loss: 0.0809779167175293
+Epoch 26, avg running_loss: 0.08721189945936203
+Epoch 26, avg running_loss: 0.08464382588863373
+Epoch 26, avg running_loss: 0.09172883629798889
+Epoch 26, avg running_loss: 0.13218842446804047
+Epoch 26, avg running_loss: 0.11275704205036163
+Validation for Epoch 26 starting:
+Training loss for 26:14.327670097351074
+Validation loss for 26:0.5851330757141113
+ 52%|█████▏    | 26/50 [35:53<33:04, 82.68s/it]
+Training for Epoch 27 starting:
+Epoch 27, avg running_loss: 0.10142263025045395
+Epoch 27, avg running_loss: 0.09501927345991135
+Epoch 27, avg running_loss: 0.10206016153097153
+Epoch 27, avg running_loss: 0.08659721910953522
+Epoch 27, avg running_loss: 0.08179593831300735
+Epoch 27, avg running_loss: 0.07513104379177094
+Epoch 27, avg running_loss: 0.07683131843805313
+Epoch 27, avg running_loss: 0.06955065578222275
+Epoch 27, avg running_loss: 0.0654977560043335
+Epoch 27, avg running_loss: 0.056114327162504196
+Epoch 27, avg running_loss: 0.06351839751005173
+Epoch 27, avg running_loss: 0.05549023300409317
+Epoch 27, avg running_loss: 0.06644533574581146
+Epoch 27, avg running_loss: 0.06236837059259415
+Epoch 27, avg running_loss: 0.05757969617843628
+Epoch 27, avg running_loss: 0.06524066627025604
+Epoch 27, avg running_loss: 0.06632940471172333
+Epoch 27, avg running_loss: 0.06126058101654053
+Validation for Epoch 27 starting:
+Training loss for 27:13.082530975341797
+Validation loss for 27:0.5022244453430176
+ 54%|█████▍    | 27/50 [37:16<31:41, 82.67s/it]
+Training for Epoch 28 starting:
+Epoch 28, avg running_loss: 0.056601472198963165
+Epoch 28, avg running_loss: 0.05922243744134903
+Epoch 28, avg running_loss: 0.05166403576731682
+Epoch 28, avg running_loss: 0.050024278461933136
+Epoch 28, avg running_loss: 0.054582785815000534
+Epoch 28, avg running_loss: 0.05021657422184944
+Epoch 28, avg running_loss: 0.055543214082717896
+Epoch 28, avg running_loss: 0.05179433152079582
+Epoch 28, avg running_loss: 0.057563912123441696
+Epoch 28, avg running_loss: 0.05549633502960205
+Epoch 28, avg running_loss: 0.055259913206100464
+Epoch 28, avg running_loss: 0.05379049852490425
+Epoch 28, avg running_loss: 0.05292028188705444
+Epoch 28, avg running_loss: 0.058254607021808624
+Epoch 28, avg running_loss: 0.05963604524731636
+Epoch 28, avg running_loss: 0.05452900752425194
+Epoch 28, avg running_loss: 0.05436607822775841
+Epoch 28, avg running_loss: 0.05548826605081558
+Validation for Epoch 28 starting:
+Training loss for 28:9.869539260864258
+Validation loss for 28:0.5013638734817505
+ 56%|█████▌    | 28/50 [38:38<30:18, 82.67s/it]
+Training for Epoch 29 starting:
+Epoch 29, avg running_loss: 0.046918973326683044
+Epoch 29, avg running_loss: 0.050097137689590454
+Epoch 29, avg running_loss: 0.05142176151275635
+Epoch 29, avg running_loss: 0.05395057797431946
+Epoch 29, avg running_loss: 0.05714981630444527
+Epoch 29, avg running_loss: 0.04812292754650116
+Epoch 29, avg running_loss: 0.048289988189935684
+Epoch 29, avg running_loss: 0.049756135791540146
+Epoch 29, avg running_loss: 0.05413896590471268
+Epoch 29, avg running_loss: 0.055684950202703476
+Epoch 29, avg running_loss: 0.05492987856268883
+Epoch 29, avg running_loss: 0.05475730448961258
+Epoch 29, avg running_loss: 0.05035435035824776
+Epoch 29, avg running_loss: 0.05413565784692764
+Epoch 29, avg running_loss: 0.04825715720653534
+Epoch 29, avg running_loss: 0.05018569156527519
+Epoch 29, avg running_loss: 0.05708649381995201
+Epoch 29, avg running_loss: 0.051136232912540436
+Validation for Epoch 29 starting:
+Training loss for 29:9.363741874694824
+Validation loss for 29:0.5833913683891296
+ 58%|█████▊    | 29/50 [40:01<28:56, 82.68s/it]
+Training for Epoch 30 starting:
+Epoch 30, avg running_loss: 0.04992184042930603
+Epoch 30, avg running_loss: 0.049374498426914215
+Epoch 30, avg running_loss: 0.05413386970758438
+Epoch 30, avg running_loss: 0.053920961916446686
+Epoch 30, avg running_loss: 0.05227017402648926
+Epoch 30, avg running_loss: 0.05403287336230278
+Epoch 30, avg running_loss: 0.04759493097662926
+Epoch 30, avg running_loss: 0.04784203693270683
+Epoch 30, avg running_loss: 0.050802793353796005
+Epoch 30, avg running_loss: 0.04960272088646889
+Epoch 30, avg running_loss: 0.05718281492590904
+Epoch 30, avg running_loss: 0.050452232360839844
+Epoch 30, avg running_loss: 0.04933302477002144
+Epoch 30, avg running_loss: 0.05519532784819603
+Epoch 30, avg running_loss: 0.05026552826166153
+Epoch 30, avg running_loss: 0.04571282118558884
+Epoch 30, avg running_loss: 0.04980079084634781
+Epoch 30, avg running_loss: 0.049390919506549835
+Validation for Epoch 30 starting:
+Training loss for 30:9.168299674987793
+Validation loss for 30:0.5679214000701904
+ 60%|██████    | 30/50 [41:24<27:33, 82.67s/it]
+Training for Epoch 31 starting:
+Epoch 31, avg running_loss: 0.05485612154006958
+Epoch 31, avg running_loss: 0.045333798974752426
+Epoch 31, avg running_loss: 0.0466553196310997
+Epoch 31, avg running_loss: 0.04379183426499367
+Epoch 31, avg running_loss: 0.048783887177705765
+Epoch 31, avg running_loss: 0.045649316161870956
+Epoch 31, avg running_loss: 0.04741957411170006
+Epoch 31, avg running_loss: 0.051433779299259186
+Epoch 31, avg running_loss: 0.05205587297677994
+Epoch 31, avg running_loss: 0.050081223249435425
+Epoch 31, avg running_loss: 0.053052693605422974
+Epoch 31, avg running_loss: 0.04776918515563011
+Epoch 31, avg running_loss: 0.0475776232779026
+Epoch 31, avg running_loss: 0.04550894722342491
+Epoch 31, avg running_loss: 0.04505392909049988
+Epoch 31, avg running_loss: 0.04850303754210472
+Epoch 31, avg running_loss: 0.050172097980976105
+Epoch 31, avg running_loss: 0.051350172609090805
+Validation for Epoch 31 starting:
+Training loss for 31:8.750482559204102
+Validation loss for 31:0.5651766061782837
+ 62%|██████▏   | 31/50 [42:46<26:10, 82.67s/it]
+Training for Epoch 32 starting:
+Epoch 32, avg running_loss: 0.047012265771627426
+Epoch 32, avg running_loss: 0.04923751577734947
+Epoch 32, avg running_loss: 0.044955551624298096
+Epoch 32, avg running_loss: 0.04322558268904686
+Epoch 32, avg running_loss: 0.045388370752334595
+Epoch 32, avg running_loss: 0.04681122675538063
+Epoch 32, avg running_loss: 0.049796491861343384
+Epoch 32, avg running_loss: 0.04549948126077652
+Epoch 32, avg running_loss: 0.048429470509290695
+Epoch 32, avg running_loss: 0.047097548842430115
+Epoch 32, avg running_loss: 0.0458916500210762
+Epoch 32, avg running_loss: 0.045903127640485764
+Epoch 32, avg running_loss: 0.051764536648988724
+Epoch 32, avg running_loss: 0.04785139486193657
+Epoch 32, avg running_loss: 0.04605947062373161
+Epoch 32, avg running_loss: 0.04380633682012558
+Epoch 32, avg running_loss: 0.04561012610793114
+Epoch 32, avg running_loss: 0.043961141258478165
+Validation for Epoch 32 starting:
+Training loss for 32:8.383012771606445
+Validation loss for 32:0.5988017916679382
+ 64%|██████▍   | 32/50 [44:09<24:47, 82.66s/it]
+Training for Epoch 33 starting:
+Epoch 33, avg running_loss: 0.050979532301425934
+Epoch 33, avg running_loss: 0.04197036102414131
+Epoch 33, avg running_loss: 0.04373160004615784
+Epoch 33, avg running_loss: 0.04484979808330536
+Epoch 33, avg running_loss: 0.045700885355472565
+Epoch 33, avg running_loss: 0.04692792519927025
+Epoch 33, avg running_loss: 0.044048942625522614
+Epoch 33, avg running_loss: 0.04742007330060005
+Epoch 33, avg running_loss: 0.04230044409632683
+Epoch 33, avg running_loss: 0.04626806080341339
+Epoch 33, avg running_loss: 0.04517778381705284
+Epoch 33, avg running_loss: 0.04357059672474861
+Epoch 33, avg running_loss: 0.045394495129585266
+Epoch 33, avg running_loss: 0.04283077269792557
+Epoch 33, avg running_loss: 0.044246550649404526
+Epoch 33, avg running_loss: 0.042909421026706696
+Epoch 33, avg running_loss: 0.045158158987760544
+Epoch 33, avg running_loss: 0.04816355183720589
+Validation for Epoch 33 starting:
+Training loss for 33:8.116490364074707
+Validation loss for 33:0.5548712015151978
+ 66%|██████▌   | 33/50 [45:32<23:25, 82.68s/it]
+Training for Epoch 34 starting:
+Epoch 34, avg running_loss: 0.04022412374615669
+Epoch 34, avg running_loss: 0.04591605067253113
+Epoch 34, avg running_loss: 0.039539821445941925
+Epoch 34, avg running_loss: 0.048634715378284454
+Epoch 34, avg running_loss: 0.045304879546165466
+Epoch 34, avg running_loss: 0.04271548241376877
+Epoch 34, avg running_loss: 0.04792451113462448
+Epoch 34, avg running_loss: 0.05041461065411568
+Epoch 34, avg running_loss: 0.05532199889421463
+Epoch 34, avg running_loss: 0.06379450857639313
+Epoch 34, avg running_loss: 0.06318359822034836
+Epoch 34, avg running_loss: 0.09022973477840424
+Epoch 34, avg running_loss: 0.2110135406255722
+Epoch 34, avg running_loss: 0.1413251757621765
+Epoch 34, avg running_loss: 0.13275493681430817
+Epoch 34, avg running_loss: 0.11408906430006027
+Epoch 34, avg running_loss: 0.08629459142684937
+Epoch 34, avg running_loss: 0.09270697832107544
+Validation for Epoch 34 starting:
+Training loss for 34:14.113883018493652
+Validation loss for 34:0.393122136592865
+ 68%|██████▊   | 34/50 [46:54<22:02, 82.65s/it]
+Training for Epoch 35 starting:
+Epoch 35, avg running_loss: 0.08051169663667679
+Epoch 35, avg running_loss: 0.06899523735046387
+Epoch 35, avg running_loss: 0.06502776592969894
+Epoch 35, avg running_loss: 0.06205214932560921
+Epoch 35, avg running_loss: 0.06282121688127518
+Epoch 35, avg running_loss: 0.0694546177983284
+Epoch 35, avg running_loss: 0.06080494076013565
+Epoch 35, avg running_loss: 0.056221526116132736
+Epoch 35, avg running_loss: 0.05717016011476517
+Epoch 35, avg running_loss: 0.05779291316866875
+Epoch 35, avg running_loss: 0.058049291372299194
+Epoch 35, avg running_loss: 0.05117737874388695
+Epoch 35, avg running_loss: 0.049117591232061386
+Epoch 35, avg running_loss: 0.049235522747039795
+Epoch 35, avg running_loss: 0.053737081587314606
+Epoch 35, avg running_loss: 0.0579071044921875
+Epoch 35, avg running_loss: 0.05625968053936958
+Epoch 35, avg running_loss: 0.06068450212478638
+Validation for Epoch 35 starting:
+Training loss for 35:10.77020263671875
+Validation loss for 35:0.5232566595077515
+ 70%|███████   | 35/50 [48:17<20:39, 82.64s/it]
+Training for Epoch 36 starting:
+Epoch 36, avg running_loss: 0.0483170822262764
+Epoch 36, avg running_loss: 0.04627417400479317
+Epoch 36, avg running_loss: 0.04949865862727165
+Epoch 36, avg running_loss: 0.04399348422884941
+Epoch 36, avg running_loss: 0.044251035898923874
+Epoch 36, avg running_loss: 0.049392230808734894
+Epoch 36, avg running_loss: 0.04866750165820122
+Epoch 36, avg running_loss: 0.04207963868975639
+Epoch 36, avg running_loss: 0.046876098960638046
+Epoch 36, avg running_loss: 0.04393264651298523
+Epoch 36, avg running_loss: 0.04417162016034126
+Epoch 36, avg running_loss: 0.044041093438863754
+Epoch 36, avg running_loss: 0.043910540640354156
+Epoch 36, avg running_loss: 0.044207602739334106
+Epoch 36, avg running_loss: 0.039730291813611984
+Epoch 36, avg running_loss: 0.04427909478545189
+Epoch 36, avg running_loss: 0.04789980128407478
+Epoch 36, avg running_loss: 0.04682270810008049
+Validation for Epoch 36 starting:
+Training loss for 36:8.183449745178223
+Validation loss for 36:0.6489882469177246
+ 72%|███████▏  | 36/50 [49:40<19:20, 82.88s/it]
+Training for Epoch 37 starting:
+Epoch 37, avg running_loss: 0.039689622819423676
+Epoch 37, avg running_loss: 0.04425462707877159
+Epoch 37, avg running_loss: 0.041885364800691605
+Epoch 37, avg running_loss: 0.04256029054522514
+Epoch 37, avg running_loss: 0.04113695025444031
+Epoch 37, avg running_loss: 0.039401452988386154
+Epoch 37, avg running_loss: 0.044659294188022614
+Epoch 37, avg running_loss: 0.039947859942913055
+Epoch 37, avg running_loss: 0.04429636523127556
+Epoch 37, avg running_loss: 0.03886115178465843
+Epoch 37, avg running_loss: 0.047398846596479416
+Epoch 37, avg running_loss: 0.03998706489801407
+Epoch 37, avg running_loss: 0.04231489822268486
+Epoch 37, avg running_loss: 0.04496464505791664
+Epoch 37, avg running_loss: 0.04612421616911888
+Epoch 37, avg running_loss: 0.040681060403585434
+Epoch 37, avg running_loss: 0.04440617933869362
+Epoch 37, avg running_loss: 0.042791564017534256
+Validation for Epoch 37 starting:
+Training loss for 37:7.653614521026611
+Validation loss for 37:0.6083947420120239
+ 74%|███████▍  | 37/50 [51:03<17:57, 82.88s/it]
+Training for Epoch 38 starting:
+Epoch 38, avg running_loss: 0.042003802955150604
+Epoch 38, avg running_loss: 0.0427849143743515
+Epoch 38, avg running_loss: 0.03959556296467781
+Epoch 38, avg running_loss: 0.03981322795152664
+Epoch 38, avg running_loss: 0.03860882669687271
+Epoch 38, avg running_loss: 0.03555021435022354
+Epoch 38, avg running_loss: 0.04148339852690697
+Epoch 38, avg running_loss: 0.03604230284690857
+Epoch 38, avg running_loss: 0.037201520055532455
+Epoch 38, avg running_loss: 0.03977927565574646
+Epoch 38, avg running_loss: 0.04471161589026451
+Epoch 38, avg running_loss: 0.04262147098779678
+Epoch 38, avg running_loss: 0.04293980821967125
+Epoch 38, avg running_loss: 0.03480309620499611
+Epoch 38, avg running_loss: 0.03733612969517708
+Epoch 38, avg running_loss: 0.04767104983329773
+Epoch 38, avg running_loss: 0.04093191772699356
+Epoch 38, avg running_loss: 0.03947440907359123
+Validation for Epoch 38 starting:
+Training loss for 38:7.233528137207031
+Validation loss for 38:0.6460766196250916
+ 76%|███████▌  | 38/50 [52:26<16:34, 82.88s/it]
+Training for Epoch 39 starting:
+Epoch 39, avg running_loss: 0.042731549590826035
+Epoch 39, avg running_loss: 0.04189097508788109
+Epoch 39, avg running_loss: 0.03980380296707153
+Epoch 39, avg running_loss: 0.038291413336992264
+Epoch 39, avg running_loss: 0.040122125297784805
+Epoch 39, avg running_loss: 0.03848090395331383
+Epoch 39, avg running_loss: 0.04096834361553192
+Epoch 39, avg running_loss: 0.04153638705611229
+Epoch 39, avg running_loss: 0.039953093975782394
+Epoch 39, avg running_loss: 0.040021639317274094
+Epoch 39, avg running_loss: 0.03581548109650612
+Epoch 39, avg running_loss: 0.03935578092932701
+Epoch 39, avg running_loss: 0.04274922236800194
+Epoch 39, avg running_loss: 0.03947198763489723
+Epoch 39, avg running_loss: 0.04142060875892639
+Epoch 39, avg running_loss: 0.033500004559755325
+Epoch 39, avg running_loss: 0.04147477075457573
+Epoch 39, avg running_loss: 0.035420265048742294
+Validation for Epoch 39 starting:
+Training loss for 39:7.130084037780762
+Validation loss for 39:0.6363269090652466
+ 78%|███████▊  | 39/50 [53:49<15:11, 82.89s/it]
+Training for Epoch 40 starting:
+Epoch 40, avg running_loss: 0.03933148458600044
+Epoch 40, avg running_loss: 0.04215649887919426
+Epoch 40, avg running_loss: 0.03753546625375748
+Epoch 40, avg running_loss: 0.03936757519841194
+Epoch 40, avg running_loss: 0.03935101255774498
+Epoch 40, avg running_loss: 0.039749376475811005
+Epoch 40, avg running_loss: 0.035524774342775345
+Epoch 40, avg running_loss: 0.035669874399900436
+Epoch 40, avg running_loss: 0.03673846647143364
+Epoch 40, avg running_loss: 0.03647805377840996
+Epoch 40, avg running_loss: 0.03912363573908806
+Epoch 40, avg running_loss: 0.03729107603430748
+Epoch 40, avg running_loss: 0.03587590903043747
+Epoch 40, avg running_loss: 0.0355413518846035
+Epoch 40, avg running_loss: 0.038695864379405975
+Epoch 40, avg running_loss: 0.03974597528576851
+Epoch 40, avg running_loss: 0.03837191313505173
+Epoch 40, avg running_loss: 0.04013742506504059
+Validation for Epoch 40 starting:
+Training loss for 40:6.866858005523682
+Validation loss for 40:0.6388717293739319
+ 80%|████████  | 40/50 [55:13<13:51, 83.19s/it]
+Training for Epoch 41 starting:
+Epoch 41, avg running_loss: 0.04438602551817894
+Epoch 41, avg running_loss: 0.039872776716947556
+Epoch 41, avg running_loss: 0.035869013518095016
+Epoch 41, avg running_loss: 0.03660140931606293
+Epoch 41, avg running_loss: 0.03482304885983467
+Epoch 41, avg running_loss: 0.04234952852129936
+Epoch 41, avg running_loss: 0.03256411477923393
+Epoch 41, avg running_loss: 0.040561724454164505
+Epoch 41, avg running_loss: 0.03988407552242279
+Epoch 41, avg running_loss: 0.03828202560544014
+Epoch 41, avg running_loss: 0.04324714466929436
+Epoch 41, avg running_loss: 0.034547023475170135
+Epoch 41, avg running_loss: 0.035315100103616714
+Epoch 41, avg running_loss: 0.03597138449549675
+Epoch 41, avg running_loss: 0.03933342546224594
+Epoch 41, avg running_loss: 0.0350155271589756
+Epoch 41, avg running_loss: 0.03671785816550255
+Epoch 41, avg running_loss: 0.04113462194800377
+Validation for Epoch 41 starting:
+Training loss for 41:6.8647565841674805
+Validation loss for 41:0.6828365325927734
+ 82%|████████▏ | 41/50 [56:36<12:30, 83.34s/it]
+Training for Epoch 42 starting:
+Epoch 42, avg running_loss: 0.03527013584971428
+Epoch 42, avg running_loss: 0.03653939440846443
+Epoch 42, avg running_loss: 0.036690209060907364
+Epoch 42, avg running_loss: 0.03667100891470909
+Epoch 42, avg running_loss: 0.04708659648895264
+Epoch 42, avg running_loss: 0.03827574476599693
+Epoch 42, avg running_loss: 0.05527428910136223
+Epoch 42, avg running_loss: 0.054415132850408554
+Epoch 42, avg running_loss: 0.04682357609272003
+Epoch 42, avg running_loss: 0.05708317831158638
+Epoch 42, avg running_loss: 0.05350009724497795
+Epoch 42, avg running_loss: 0.06596051901578903
+Epoch 42, avg running_loss: 0.05640512704849243
+Epoch 42, avg running_loss: 0.04975033551454544
+Epoch 42, avg running_loss: 0.05417698621749878
+Epoch 42, avg running_loss: 0.05434945225715637
+Epoch 42, avg running_loss: 0.046999793499708176
+Epoch 42, avg running_loss: 0.04255730286240578
+Validation for Epoch 42 starting:
+Training loss for 42:8.678289413452148
+Validation loss for 42:0.65948486328125
+ 84%|████████▍ | 42/50 [57:59<11:05, 83.21s/it]
+Training for Epoch 43 starting:
+Epoch 43, avg running_loss: 0.03973431512713432
+Epoch 43, avg running_loss: 0.04529133811593056
+Epoch 43, avg running_loss: 0.038165636360645294
+Epoch 43, avg running_loss: 0.03935347497463226
+Epoch 43, avg running_loss: 0.039689239114522934
+Epoch 43, avg running_loss: 0.03778250142931938
+Epoch 43, avg running_loss: 0.03686325624585152
+Epoch 43, avg running_loss: 0.036299191415309906
+Epoch 43, avg running_loss: 0.036293622106313705
+Epoch 43, avg running_loss: 0.03783118352293968
+Epoch 43, avg running_loss: 0.04248703271150589
+Epoch 43, avg running_loss: 0.04119498282670975
+Epoch 43, avg running_loss: 0.03857947513461113
+Epoch 43, avg running_loss: 0.0388878770172596
+Epoch 43, avg running_loss: 0.04073616862297058
+Epoch 43, avg running_loss: 0.03992000222206116
+Epoch 43, avg running_loss: 0.04266243800520897
+Epoch 43, avg running_loss: 0.038122642785310745
+Validation for Epoch 43 starting:
+Training loss for 43:7.098943710327148
+Validation loss for 43:0.6854662895202637
+ 86%|████████▌ | 43/50 [59:22<09:41, 83.13s/it]
+Training for Epoch 44 starting:
+Epoch 44, avg running_loss: 0.036406759172677994
+Epoch 44, avg running_loss: 0.03587120398879051
+Epoch 44, avg running_loss: 0.03550374507904053
+Epoch 44, avg running_loss: 0.03220715746283531
+Epoch 44, avg running_loss: 0.034210868179798126
+Epoch 44, avg running_loss: 0.035395145416259766
+Epoch 44, avg running_loss: 0.03524444252252579
+Epoch 44, avg running_loss: 0.03888953477144241
+Epoch 44, avg running_loss: 0.036490973085165024
+Epoch 44, avg running_loss: 0.036148205399513245
+Epoch 44, avg running_loss: 0.033823948353528976
+Epoch 44, avg running_loss: 0.029559070244431496
+Epoch 44, avg running_loss: 0.035303983837366104
+Epoch 44, avg running_loss: 0.03997209668159485
+Epoch 44, avg running_loss: 0.03883153945207596
+Epoch 44, avg running_loss: 0.034815266728401184
+Epoch 44, avg running_loss: 0.03705615550279617
+Epoch 44, avg running_loss: 0.03773031756281853
+Validation for Epoch 44 starting:
+Training loss for 44:6.434601783752441
+Validation loss for 44:0.6762109994888306
+ 88%|████████▊ | 44/50 [1:00:45<08:18, 83.06s/it]
+Training for Epoch 45 starting:
+Epoch 45, avg running_loss: 0.032406967133283615
+Epoch 45, avg running_loss: 0.033850353211164474
+Epoch 45, avg running_loss: 0.03358003869652748
+Epoch 45, avg running_loss: 0.034200552850961685
+Epoch 45, avg running_loss: 0.03302184119820595
+Epoch 45, avg running_loss: 0.03385741636157036
+Epoch 45, avg running_loss: 0.03180081024765968
+Epoch 45, avg running_loss: 0.03580748289823532
+Epoch 45, avg running_loss: 0.037838730961084366
+Epoch 45, avg running_loss: 0.033846769481897354
+Epoch 45, avg running_loss: 0.03393891081213951
+Epoch 45, avg running_loss: 0.03190759941935539
+Epoch 45, avg running_loss: 0.03405783325433731
+Epoch 45, avg running_loss: 0.033595070242881775
+Epoch 45, avg running_loss: 0.0368344746530056
+Epoch 45, avg running_loss: 0.036816325038671494
+Epoch 45, avg running_loss: 0.03529181703925133
+Epoch 45, avg running_loss: 0.03171587362885475
+Validation for Epoch 45 starting:
+Training loss for 45:6.143689155578613
+Validation loss for 45:0.6689895391464233
+ 90%|█████████ | 45/50 [1:02:08<06:55, 83.03s/it]
+Training for Epoch 46 starting:
+Epoch 46, avg running_loss: 0.030485445633530617
+Epoch 46, avg running_loss: 0.03212675452232361
+Epoch 46, avg running_loss: 0.03465328365564346
+Epoch 46, avg running_loss: 0.03256523236632347
+Epoch 46, avg running_loss: 0.030828451737761497
+Epoch 46, avg running_loss: 0.03353270888328552
+Epoch 46, avg running_loss: 0.03231704980134964
+Epoch 46, avg running_loss: 0.03923043981194496
+Epoch 46, avg running_loss: 0.036032821983098984
+Epoch 46, avg running_loss: 0.03400847315788269
+Epoch 46, avg running_loss: 0.03352541849017143
+Epoch 46, avg running_loss: 0.03277566283941269
+Epoch 46, avg running_loss: 0.03291567042469978
+Epoch 46, avg running_loss: 0.033214543014764786
+Epoch 46, avg running_loss: 0.036208756268024445
+Epoch 46, avg running_loss: 0.033022310584783554
+Epoch 46, avg running_loss: 0.03371760621666908
+Epoch 46, avg running_loss: 0.034778326749801636
+Validation for Epoch 46 starting:
+Training loss for 46:6.059387683868408
+Validation loss for 46:0.7239421606063843
+ 92%|█████████▏| 46/50 [1:03:31<05:31, 82.99s/it]
+Training for Epoch 47 starting:
+Epoch 47, avg running_loss: 0.032301973551511765
+Epoch 47, avg running_loss: 0.03143012523651123
+Epoch 47, avg running_loss: 0.03367951139807701
+Epoch 47, avg running_loss: 0.03415423631668091
+Epoch 47, avg running_loss: 0.03319160267710686
+Epoch 47, avg running_loss: 0.032059721648693085
+Epoch 47, avg running_loss: 0.032228317111730576
+Epoch 47, avg running_loss: 0.03434469550848007
+Epoch 47, avg running_loss: 0.03012072481215
+Epoch 47, avg running_loss: 0.03267306089401245
+Epoch 47, avg running_loss: 0.031841229647397995
+Epoch 47, avg running_loss: 0.036357443779706955
+Epoch 47, avg running_loss: 0.03325807675719261
+Epoch 47, avg running_loss: 0.03851904347538948
+Epoch 47, avg running_loss: 0.03336084634065628
+Epoch 47, avg running_loss: 0.032331433147192
+Epoch 47, avg running_loss: 0.031208759173750877
+Epoch 47, avg running_loss: 0.03353830799460411
+Validation for Epoch 47 starting:
+Training loss for 47:5.9659929275512695
+Validation loss for 47:0.6916147470474243
+ 94%|█████████▍| 47/50 [1:04:54<04:08, 82.98s/it]
+Training for Epoch 48 starting:
+Epoch 48, avg running_loss: 0.034605126827955246
+Epoch 48, avg running_loss: 0.03194436430931091
+Epoch 48, avg running_loss: 0.03108556941151619
+Epoch 48, avg running_loss: 0.03334641084074974
+Epoch 48, avg running_loss: 0.030886134132742882
+Epoch 48, avg running_loss: 0.036982711404561996
+Epoch 48, avg running_loss: 0.03180455043911934
+Epoch 48, avg running_loss: 0.03503618761897087
+Epoch 48, avg running_loss: 0.034996386617422104
+Epoch 48, avg running_loss: 0.032164316624403
+Epoch 48, avg running_loss: 0.03591020032763481
+Epoch 48, avg running_loss: 0.035345740616321564
+Epoch 48, avg running_loss: 0.033751364797353745
+Epoch 48, avg running_loss: 0.03482218086719513
+Epoch 48, avg running_loss: 0.030349526554346085
+Epoch 48, avg running_loss: 0.03163854405283928
+Epoch 48, avg running_loss: 0.03210439905524254
+Epoch 48, avg running_loss: 0.03324472904205322
+Validation for Epoch 48 starting:
+Training loss for 48:6.000183582305908
+Validation loss for 48:0.7258410453796387
+ 96%|█████████▌| 48/50 [1:06:18<02:46, 83.13s/it]
+Training for Epoch 49 starting:
+Epoch 49, avg running_loss: 0.03319355472922325
+Epoch 49, avg running_loss: 0.03216883912682533
+Epoch 49, avg running_loss: 0.029929889366030693
+Epoch 49, avg running_loss: 0.03495379537343979
+Epoch 49, avg running_loss: 0.03160785511136055
+Epoch 49, avg running_loss: 0.030460495501756668
+Epoch 49, avg running_loss: 0.03152813762426376
+Epoch 49, avg running_loss: 0.03300928324460983
+Epoch 49, avg running_loss: 0.03180357441306114
+Epoch 49, avg running_loss: 0.03739618882536888
+Epoch 49, avg running_loss: 0.03543785959482193
+Epoch 49, avg running_loss: 0.040430016815662384
+Epoch 49, avg running_loss: 0.0383877269923687
+Epoch 49, avg running_loss: 0.034905046224594116
+Epoch 49, avg running_loss: 0.034322965890169144
+Epoch 49, avg running_loss: 0.03162940964102745
+Epoch 49, avg running_loss: 0.032636161893606186
+Epoch 49, avg running_loss: 0.03218810632824898
+Validation for Epoch 49 starting:
+Training loss for 49:6.059889316558838
+Validation loss for 49:0.750885009765625
+ 98%|█████████▊| 49/50 [1:07:40<01:23, 83.07s/it]
+Training for Epoch 50 starting:
+Epoch 50, avg running_loss: 0.03303488716483116
+Epoch 50, avg running_loss: 0.03147149831056595
+Epoch 50, avg running_loss: 0.030226772651076317
+Epoch 50, avg running_loss: 0.030154956504702568
+Epoch 50, avg running_loss: 0.030708327889442444
+Epoch 50, avg running_loss: 0.03196399658918381
+Epoch 50, avg running_loss: 0.029411274939775467
+Epoch 50, avg running_loss: 0.030292371287941933
+Epoch 50, avg running_loss: 0.03370813652873039
+Epoch 50, avg running_loss: 0.03305201604962349
+Epoch 50, avg running_loss: 0.03220218047499657
+Epoch 50, avg running_loss: 0.03424546495079994
+Epoch 50, avg running_loss: 0.03366941958665848
+Epoch 50, avg running_loss: 0.03227917104959488
+Epoch 50, avg running_loss: 0.03724101185798645
+Epoch 50, avg running_loss: 0.03503074496984482
+Epoch 50, avg running_loss: 0.03556029498577118
+Epoch 50, avg running_loss: 0.03280187398195267
+Validation for Epoch 50 starting:
+Training loss for 50:5.87054443359375
+Validation loss for 50:0.6776931285858154
+100%|██████████| 50/50 [1:09:03<00:00, 82.88s/it]
+
+ 0%|          | 0/50 [00:00<?, ?it/s]
+Starting training with eta=3e-05 for 50 epochs, with batch size 5
+Training for Epoch 1 starting:
+Epoch 1, avg running_loss: 0.03243095427751541
+Epoch 1, avg running_loss: 0.031417764723300934
+Epoch 1, avg running_loss: 0.02941855601966381
+Epoch 1, avg running_loss: 0.02757609821856022
+Epoch 1, avg running_loss: 0.027290690690279007
+Epoch 1, avg running_loss: 0.02709737978875637
+Epoch 1, avg running_loss: 0.027704551815986633
+Epoch 1, avg running_loss: 0.027230506762862206
+Epoch 1, avg running_loss: 0.02925293520092964
+Epoch 1, avg running_loss: 0.027716711163520813
+Epoch 1, avg running_loss: 0.025124406442046165
+Epoch 1, avg running_loss: 0.02707289718091488
+Epoch 1, avg running_loss: 0.026511747390031815
+Epoch 1, avg running_loss: 0.027967358008027077
+Epoch 1, avg running_loss: 0.027257472276687622
+Epoch 1, avg running_loss: 0.028539760038256645
+Epoch 1, avg running_loss: 0.029875366017222404
+Epoch 1, avg running_loss: 0.028020281344652176
+Validation for Epoch 1 starting:
+Training loss for 1:5.075054168701172
+Validation loss for 1:0.8236310482025146
+  2%|▏         | 1/50 [01:25<1:09:33, 85.17s/it]
+Training for Epoch 2 starting:
+Epoch 2, avg running_loss: 0.025210563093423843
+Epoch 2, avg running_loss: 0.025997614488005638
+Epoch 2, avg running_loss: 0.027818992733955383
+Epoch 2, avg running_loss: 0.02559795044362545
+Epoch 2, avg running_loss: 0.02767304889857769
+Epoch 2, avg running_loss: 0.031514134258031845
+Epoch 2, avg running_loss: 0.025411192327737808
+Epoch 2, avg running_loss: 0.028324728831648827
+Epoch 2, avg running_loss: 0.025630692020058632
+Epoch 2, avg running_loss: 0.02374131791293621
+Epoch 2, avg running_loss: 0.027965296059846878
+Epoch 2, avg running_loss: 0.02439601719379425
+Epoch 2, avg running_loss: 0.026685873046517372
+Epoch 2, avg running_loss: 0.026682546362280846
+Epoch 2, avg running_loss: 0.02705654874444008
+Epoch 2, avg running_loss: 0.026759250089526176
+Epoch 2, avg running_loss: 0.024807943031191826
+Epoch 2, avg running_loss: 0.02644374966621399
+Validation for Epoch 2 starting:
+Training loss for 2:4.77717399597168
+Validation loss for 2:0.8818577527999878
+  4%|▍         | 2/50 [02:50<1:08:10, 85.21s/it]
+Training for Epoch 3 starting:
+Epoch 3, avg running_loss: 0.026276756078004837
+Epoch 3, avg running_loss: 0.023956717923283577
+Epoch 3, avg running_loss: 0.026823554188013077
+Epoch 3, avg running_loss: 0.026548629626631737
+Epoch 3, avg running_loss: 0.02529347874224186
+Epoch 3, avg running_loss: 0.02365422621369362
+Epoch 3, avg running_loss: 0.026932422071695328
+Epoch 3, avg running_loss: 0.024105684831738472
+Epoch 3, avg running_loss: 0.026743927970528603
+Epoch 3, avg running_loss: 0.025671690702438354
+Epoch 3, avg running_loss: 0.029004309326410294
+Epoch 3, avg running_loss: 0.025325452908873558
+Epoch 3, avg running_loss: 0.025570780038833618
+Epoch 3, avg running_loss: 0.025379955768585205
+Epoch 3, avg running_loss: 0.027160758152604103
+Epoch 3, avg running_loss: 0.027385031804442406
+Epoch 3, avg running_loss: 0.022904319688677788
+Epoch 3, avg running_loss: 0.024128884077072144
+Validation for Epoch 3 starting:
+Training loss for 3:4.628666400909424
+Validation loss for 3:0.8881609439849854
+  6%|▌         | 3/50 [04:17<1:07:08, 85.72s/it]
+Training for Epoch 4 starting:
+Epoch 4, avg running_loss: 0.02722570300102234
+Epoch 4, avg running_loss: 0.023639006540179253
+Epoch 4, avg running_loss: 0.024238932877779007
+Epoch 4, avg running_loss: 0.024469612166285515
+Epoch 4, avg running_loss: 0.022093065083026886
+Epoch 4, avg running_loss: 0.02794708125293255
+Epoch 4, avg running_loss: 0.023478111252188683
+Epoch 4, avg running_loss: 0.026879077777266502
+Epoch 4, avg running_loss: 0.024567315354943275
+Epoch 4, avg running_loss: 0.027176786214113235
+Epoch 4, avg running_loss: 0.02554161846637726
+Epoch 4, avg running_loss: 0.028728768229484558
+Epoch 4, avg running_loss: 0.02468576841056347
+Epoch 4, avg running_loss: 0.02487666718661785
+Epoch 4, avg running_loss: 0.025571728125214577
+Epoch 4, avg running_loss: 0.024564361199736595
+Epoch 4, avg running_loss: 0.025841807946562767
+Epoch 4, avg running_loss: 0.024080948904156685
+Validation for Epoch 4 starting:
+Training loss for 4:4.556064128875732
+Validation loss for 4:0.9027328491210938
+  8%|▊         | 4/50 [05:43<1:05:53, 85.94s/it]
+Training for Epoch 5 starting:
+Epoch 5, avg running_loss: 0.02777761034667492
+Epoch 5, avg running_loss: 0.023266125470399857
+Epoch 5, avg running_loss: 0.025051433593034744
+Epoch 5, avg running_loss: 0.022145213559269905
+Epoch 5, avg running_loss: 0.02473026141524315
+Epoch 5, avg running_loss: 0.022103501483798027
+Epoch 5, avg running_loss: 0.026547962799668312
+Epoch 5, avg running_loss: 0.02502043917775154
+Epoch 5, avg running_loss: 0.02546272613108158
+Epoch 5, avg running_loss: 0.027920139953494072
+Epoch 5, avg running_loss: 0.024976477026939392
+Epoch 5, avg running_loss: 0.024360960349440575
+Epoch 5, avg running_loss: 0.025704829022288322
+Epoch 5, avg running_loss: 0.023982679471373558
+Epoch 5, avg running_loss: 0.02550535835325718
+Epoch 5, avg running_loss: 0.0258506890386343
+Epoch 5, avg running_loss: 0.024760430678725243
+Epoch 5, avg running_loss: 0.026097699999809265
+Validation for Epoch 5 starting:
+Training loss for 5:4.512646198272705
+Validation loss for 5:0.9133219718933105
+ 10%|█         | 5/50 [07:11<1:04:43, 86.31s/it]
+Training for Epoch 6 starting:
+Epoch 6, avg running_loss: 0.022875448688864708
+Epoch 6, avg running_loss: 0.027174368500709534
+Epoch 6, avg running_loss: 0.025133145973086357
+Epoch 6, avg running_loss: 0.024044029414653778
+Epoch 6, avg running_loss: 0.023568367585539818
+Epoch 6, avg running_loss: 0.025725437328219414
+Epoch 6, avg running_loss: 0.025346452370285988
+Epoch 6, avg running_loss: 0.025194019079208374
+Epoch 6, avg running_loss: 0.024441376328468323
+Epoch 6, avg running_loss: 0.02423560619354248
+Epoch 6, avg running_loss: 0.022888487204909325
+Epoch 6, avg running_loss: 0.02742898277938366
+Epoch 6, avg running_loss: 0.023506734520196915
+Epoch 6, avg running_loss: 0.02356751821935177
+Epoch 6, avg running_loss: 0.02579215168952942
+Epoch 6, avg running_loss: 0.024405742064118385
+Epoch 6, avg running_loss: 0.025049317628145218
+Epoch 6, avg running_loss: 0.023594550788402557
+Validation for Epoch 6 starting:
+Training loss for 6:4.4397172927856445
+Validation loss for 6:0.9264537692070007
+ 12%|█▏        | 6/50 [08:38<1:03:36, 86.75s/it]
+Training for Epoch 7 starting:
+Epoch 7, avg running_loss: 0.0239097997546196
+Epoch 7, avg running_loss: 0.024010298773646355
+Epoch 7, avg running_loss: 0.026396481320261955
+Epoch 7, avg running_loss: 0.02467864751815796
+Epoch 7, avg running_loss: 0.02302931621670723
+Epoch 7, avg running_loss: 0.024036800488829613
+Epoch 7, avg running_loss: 0.026583267375826836
+Epoch 7, avg running_loss: 0.02355830743908882
+Epoch 7, avg running_loss: 0.022066568955779076
+Epoch 7, avg running_loss: 0.02533247135579586
+Epoch 7, avg running_loss: 0.022490475326776505
+Epoch 7, avg running_loss: 0.02549370564520359
+Epoch 7, avg running_loss: 0.022855006158351898
+Epoch 7, avg running_loss: 0.02835935913026333
+Epoch 7, avg running_loss: 0.025197802111506462
+Epoch 7, avg running_loss: 0.025364046916365623
+Epoch 7, avg running_loss: 0.023160135373473167
+Epoch 7, avg running_loss: 0.023336060345172882
+Validation for Epoch 7 starting:
+Training loss for 7:4.398584842681885
+Validation loss for 7:0.9699562788009644
+ 14%|█▍        | 7/50 [10:05<1:02:05, 86.64s/it]
+Training for Epoch 8 starting:
+Epoch 8, avg running_loss: 0.023351026698946953
+Epoch 8, avg running_loss: 0.022632379084825516
+Epoch 8, avg running_loss: 0.026117775589227676
+Epoch 8, avg running_loss: 0.02432255819439888
+Epoch 8, avg running_loss: 0.023013237863779068
+Epoch 8, avg running_loss: 0.023927373811602592
+Epoch 8, avg running_loss: 0.023739444091916084
+Epoch 8, avg running_loss: 0.026923609897494316
+Epoch 8, avg running_loss: 0.022874295711517334
+Epoch 8, avg running_loss: 0.025552118197083473
+Epoch 8, avg running_loss: 0.0225211214274168
+Epoch 8, avg running_loss: 0.02545960620045662
+Epoch 8, avg running_loss: 0.023328829556703568
+Epoch 8, avg running_loss: 0.025194108486175537
+Epoch 8, avg running_loss: 0.02325611189007759
+Epoch 8, avg running_loss: 0.02345142886042595
+Epoch 8, avg running_loss: 0.024014925584197044
+Epoch 8, avg running_loss: 0.02426944486796856
+Validation for Epoch 8 starting:
+Training loss for 8:4.339494705200195
+Validation loss for 8:0.9848301410675049
+ 16%|█▌        | 8/50 [11:31<1:00:36, 86.58s/it]
+Training for Epoch 9 starting:
+Epoch 9, avg running_loss: 0.02245311066508293
+Epoch 9, avg running_loss: 0.026373421773314476
+Epoch 9, avg running_loss: 0.02466624416410923
+Epoch 9, avg running_loss: 0.0242483951151371
+Epoch 9, avg running_loss: 0.02378268353641033
+Epoch 9, avg running_loss: 0.024681461974978447
+Epoch 9, avg running_loss: 0.022167237475514412
+Epoch 9, avg running_loss: 0.023870645090937614
+Epoch 9, avg running_loss: 0.02520359866321087
+Epoch 9, avg running_loss: 0.0219291802495718
+Epoch 9, avg running_loss: 0.024053161963820457
+Epoch 9, avg running_loss: 0.02535896934568882
+Epoch 9, avg running_loss: 0.023163268342614174
+Epoch 9, avg running_loss: 0.02674136497080326
+Epoch 9, avg running_loss: 0.023337429389357567
+Epoch 9, avg running_loss: 0.02491062507033348
+Epoch 9, avg running_loss: 0.02303137443959713
+Epoch 9, avg running_loss: 0.021428434178233147
+Validation for Epoch 9 starting:
+Training loss for 9:4.3140058517456055
+Validation loss for 9:0.9722582697868347
+ 18%|█▊        | 9/50 [12:58<59:18, 86.78s/it]  
+Training for Epoch 10 starting:
+Epoch 10, avg running_loss: 0.020788513123989105
+Epoch 10, avg running_loss: 0.024042649194598198
+Epoch 10, avg running_loss: 0.025540782138705254
+Epoch 10, avg running_loss: 0.02328817918896675
+Epoch 10, avg running_loss: 0.023130707442760468
+Epoch 10, avg running_loss: 0.025715073570609093
+Epoch 10, avg running_loss: 0.023544201627373695
+Epoch 10, avg running_loss: 0.021801529452204704
+Epoch 10, avg running_loss: 0.023861369118094444
+Epoch 10, avg running_loss: 0.023316003382205963
+Epoch 10, avg running_loss: 0.022846853360533714
+Epoch 10, avg running_loss: 0.02503366582095623
+Epoch 10, avg running_loss: 0.023716822266578674
+Epoch 10, avg running_loss: 0.022916728630661964
+Epoch 10, avg running_loss: 0.02327842451632023
+Epoch 10, avg running_loss: 0.0242527574300766
+Epoch 10, avg running_loss: 0.02566446363925934
+Epoch 10, avg running_loss: 0.023568814620375633
+Validation for Epoch 10 starting:
+Training loss for 10:4.263073921203613
+Validation loss for 10:0.9840468764305115
+ 20%|██        | 10/50 [14:26<57:57, 86.93s/it]
+Training for Epoch 11 starting:
+Epoch 11, avg running_loss: 0.023558251559734344
+Epoch 11, avg running_loss: 0.02308129519224167
+Epoch 11, avg running_loss: 0.02355552464723587
+Epoch 11, avg running_loss: 0.025238914415240288
+Epoch 11, avg running_loss: 0.022387022152543068
+Epoch 11, avg running_loss: 0.023598788306117058
+Epoch 11, avg running_loss: 0.02243621088564396
+Epoch 11, avg running_loss: 0.023856637999415398
+Epoch 11, avg running_loss: 0.02329952083528042
+Epoch 11, avg running_loss: 0.026753390207886696
+Epoch 11, avg running_loss: 0.02301204763352871
+Epoch 11, avg running_loss: 0.02393936738371849
+Epoch 11, avg running_loss: 0.02538103424012661
+Epoch 11, avg running_loss: 0.024231689050793648
+Epoch 11, avg running_loss: 0.02296733297407627
+Epoch 11, avg running_loss: 0.023677194491028786
+Epoch 11, avg running_loss: 0.02240266650915146
+Epoch 11, avg running_loss: 0.022769182920455933
+Validation for Epoch 11 starting:
+Training loss for 11:4.2614593505859375
+Validation loss for 11:0.9648419618606567
+ 22%|██▏       | 11/50 [15:55<56:57, 87.62s/it]
+Training for Epoch 12 starting:
+Epoch 12, avg running_loss: 0.02267698384821415
+Epoch 12, avg running_loss: 0.023914065212011337
+Epoch 12, avg running_loss: 0.025877906009554863
+Epoch 12, avg running_loss: 0.023727023974061012
+Epoch 12, avg running_loss: 0.023030316457152367
+Epoch 12, avg running_loss: 0.022736085578799248
+Epoch 12, avg running_loss: 0.025965843349695206
+Epoch 12, avg running_loss: 0.022502275183796883
+Epoch 12, avg running_loss: 0.021647078916430473
+Epoch 12, avg running_loss: 0.021886015310883522
+Epoch 12, avg running_loss: 0.023283910006284714
+Epoch 12, avg running_loss: 0.021704019978642464
+Epoch 12, avg running_loss: 0.02773885428905487
+Epoch 12, avg running_loss: 0.02375730685889721
+Epoch 12, avg running_loss: 0.022589171305298805
+Epoch 12, avg running_loss: 0.022632254287600517
+Epoch 12, avg running_loss: 0.022377319633960724
+Epoch 12, avg running_loss: 0.023005114868283272
+Validation for Epoch 12 starting:
+Training loss for 12:4.210516452789307
+Validation loss for 12:1.0123040676116943
+ 24%|██▍       | 12/50 [17:23<55:37, 87.83s/it]
+Training for Epoch 13 starting:
+Epoch 13, avg running_loss: 0.024584000930190086
+Epoch 13, avg running_loss: 0.023368043825030327
+Epoch 13, avg running_loss: 0.022472405806183815
+Epoch 13, avg running_loss: 0.022546304389834404
+Epoch 13, avg running_loss: 0.023887041956186295
+Epoch 13, avg running_loss: 0.023396147415041924
+Epoch 13, avg running_loss: 0.022048478946089745
+Epoch 13, avg running_loss: 0.024977881461381912
+Epoch 13, avg running_loss: 0.026108378544449806
+Epoch 13, avg running_loss: 0.024223608896136284
+Epoch 13, avg running_loss: 0.02190682291984558
+Epoch 13, avg running_loss: 0.02573118545114994
+Epoch 13, avg running_loss: 0.021762199699878693
+Epoch 13, avg running_loss: 0.023606685921549797
+Epoch 13, avg running_loss: 0.021316129714250565
+Epoch 13, avg running_loss: 0.022382954135537148
+Epoch 13, avg running_loss: 0.020307645201683044
+Epoch 13, avg running_loss: 0.022744476795196533
+Validation for Epoch 13 starting:
+Training loss for 13:4.173703670501709
+Validation loss for 13:1.0203008651733398
+ 26%|██▌       | 13/50 [18:50<54:00, 87.58s/it]
+Training for Epoch 14 starting:
+Epoch 14, avg running_loss: 0.02068427763879299
+Epoch 14, avg running_loss: 0.023644374683499336
+Epoch 14, avg running_loss: 0.021365806460380554
+Epoch 14, avg running_loss: 0.023314375430345535
+Epoch 14, avg running_loss: 0.022357730194926262
+Epoch 14, avg running_loss: 0.021276086568832397
+Epoch 14, avg running_loss: 0.022255493327975273
+Epoch 14, avg running_loss: 0.023406168445944786
+Epoch 14, avg running_loss: 0.022625964134931564
+Epoch 14, avg running_loss: 0.02467459812760353
+Epoch 14, avg running_loss: 0.024275505915284157
+Epoch 14, avg running_loss: 0.02338089607656002
+Epoch 14, avg running_loss: 0.02433498576283455
+Epoch 14, avg running_loss: 0.023741085082292557
+Epoch 14, avg running_loss: 0.024630680680274963
+Epoch 14, avg running_loss: 0.022504115477204323
+Epoch 14, avg running_loss: 0.023408077657222748
+Epoch 14, avg running_loss: 0.02193545363843441
+Validation for Epoch 14 starting:
+Training loss for 14:4.138156414031982
+Validation loss for 14:1.0525012016296387
+ 28%|██▊       | 14/50 [20:17<52:26, 87.40s/it]
+Training for Epoch 15 starting:
+Epoch 15, avg running_loss: 0.021992413327097893
+Epoch 15, avg running_loss: 0.02309415675699711
+Epoch 15, avg running_loss: 0.025441160425543785
+Epoch 15, avg running_loss: 0.021078502759337425
+Epoch 15, avg running_loss: 0.02204696275293827
+Epoch 15, avg running_loss: 0.023075958713889122
+Epoch 15, avg running_loss: 0.02426140569150448
+Epoch 15, avg running_loss: 0.023784687742590904
+Epoch 15, avg running_loss: 0.02023978717625141
+Epoch 15, avg running_loss: 0.02419978380203247
+Epoch 15, avg running_loss: 0.02453199028968811
+Epoch 15, avg running_loss: 0.0229551550000906
+Epoch 15, avg running_loss: 0.023930422961711884
+Epoch 15, avg running_loss: 0.02171853557229042
+Epoch 15, avg running_loss: 0.025052381679415703
+Epoch 15, avg running_loss: 0.021809641271829605
+Epoch 15, avg running_loss: 0.021187221631407738
+Epoch 15, avg running_loss: 0.021189119666814804
+Validation for Epoch 15 starting:
+Training loss for 15:4.11589241027832
+Validation loss for 15:1.071315050125122
+ 30%|███       | 15/50 [21:44<50:56, 87.33s/it]
+Training for Epoch 16 starting:
+Epoch 16, avg running_loss: 0.02268005721271038
+Epoch 16, avg running_loss: 0.021163715049624443
+Epoch 16, avg running_loss: 0.023294737562537193
+Epoch 16, avg running_loss: 0.021460993215441704
+Epoch 16, avg running_loss: 0.022107478231191635
+Epoch 16, avg running_loss: 0.02410963736474514
+Epoch 16, avg running_loss: 0.023821065202355385
+Epoch 16, avg running_loss: 0.021318821236491203
+Epoch 16, avg running_loss: 0.02367364428937435
+Epoch 16, avg running_loss: 0.022807108238339424
+Epoch 16, avg running_loss: 0.02173880860209465
+Epoch 16, avg running_loss: 0.02145112119615078
+Epoch 16, avg running_loss: 0.02209211140871048
+Epoch 16, avg running_loss: 0.024114398285746574
+Epoch 16, avg running_loss: 0.022856533527374268
+Epoch 16, avg running_loss: 0.023936493322253227
+Epoch 16, avg running_loss: 0.02353466860949993
+Epoch 16, avg running_loss: 0.02310107834637165
+Validation for Epoch 16 starting:
+Training loss for 16:4.092624187469482
+Validation loss for 16:1.079223871231079
+ 32%|███▏      | 16/50 [23:11<49:25, 87.23s/it]
+Training for Epoch 17 starting:
+Epoch 17, avg running_loss: 0.020054969936609268
+Epoch 17, avg running_loss: 0.022184034809470177
+Epoch 17, avg running_loss: 0.02262222208082676
+Epoch 17, avg running_loss: 0.021119415760040283
+Epoch 17, avg running_loss: 0.023361725732684135
+Epoch 17, avg running_loss: 0.023957788944244385
+Epoch 17, avg running_loss: 0.024235505610704422
+Epoch 17, avg running_loss: 0.024598246440291405
+Epoch 17, avg running_loss: 0.022665198892354965
+Epoch 17, avg running_loss: 0.023852040991187096
+Epoch 17, avg running_loss: 0.02418973110616207
+Epoch 17, avg running_loss: 0.023009207099676132
+Epoch 17, avg running_loss: 0.021019281819462776
+Epoch 17, avg running_loss: 0.02079177461564541
+Epoch 17, avg running_loss: 0.02269063889980316
+Epoch 17, avg running_loss: 0.022256173193454742
+Epoch 17, avg running_loss: 0.021317020058631897
+Epoch 17, avg running_loss: 0.02310379035770893
+Validation for Epoch 17 starting:
+Training loss for 17:4.070287227630615
+Validation loss for 17:1.0647730827331543
+ 34%|███▍      | 17/50 [24:37<47:46, 86.86s/it]
+Training for Epoch 18 starting:
+Epoch 18, avg running_loss: 0.021055221557617188
+Epoch 18, avg running_loss: 0.02222614549100399
+Epoch 18, avg running_loss: 0.022019976750016212
+Epoch 18, avg running_loss: 0.02314179390668869
+Epoch 18, avg running_loss: 0.0226767398416996
+Epoch 18, avg running_loss: 0.02315532974898815
+Epoch 18, avg running_loss: 0.02155860885977745
+Epoch 18, avg running_loss: 0.024544714018702507
+Epoch 18, avg running_loss: 0.02396737039089203
+Epoch 18, avg running_loss: 0.022724395617842674
+Epoch 18, avg running_loss: 0.023710688576102257
+Epoch 18, avg running_loss: 0.022528547793626785
+Epoch 18, avg running_loss: 0.021888548508286476
+Epoch 18, avg running_loss: 0.021465059369802475
+Epoch 18, avg running_loss: 0.023409198969602585
+Epoch 18, avg running_loss: 0.022301120683550835
+Epoch 18, avg running_loss: 0.021469229832291603
+Epoch 18, avg running_loss: 0.020607665181159973
+Validation for Epoch 18 starting:
+Training loss for 18:4.044502258300781
+Validation loss for 18:1.084303617477417
+ 36%|███▌      | 18/50 [26:02<46:02, 86.33s/it]
+Training for Epoch 19 starting:
+Epoch 19, avg running_loss: 0.022580014541745186
+Epoch 19, avg running_loss: 0.02255301922559738
+Epoch 19, avg running_loss: 0.02209855057299137
+Epoch 19, avg running_loss: 0.02240385301411152
+Epoch 19, avg running_loss: 0.022707190364599228
+Epoch 19, avg running_loss: 0.022487295791506767
+Epoch 19, avg running_loss: 0.022409727796912193
+Epoch 19, avg running_loss: 0.021667441353201866
+Epoch 19, avg running_loss: 0.022246811538934708
+Epoch 19, avg running_loss: 0.022192787379026413
+Epoch 19, avg running_loss: 0.02157660573720932
+Epoch 19, avg running_loss: 0.02374214492738247
+Epoch 19, avg running_loss: 0.02189948968589306
+Epoch 19, avg running_loss: 0.021297410130500793
+Epoch 19, avg running_loss: 0.022413937374949455
+Epoch 19, avg running_loss: 0.021651770919561386
+Epoch 19, avg running_loss: 0.023431845009326935
+Epoch 19, avg running_loss: 0.022220691666007042
+Validation for Epoch 19 starting:
+Training loss for 19:4.015806674957275
+Validation loss for 19:1.0906217098236084
+ 38%|███▊      | 19/50 [27:28<44:25, 85.98s/it]
+Training for Epoch 20 starting:
+Epoch 20, avg running_loss: 0.02353132702410221
+Epoch 20, avg running_loss: 0.02339807152748108
+Epoch 20, avg running_loss: 0.020688528195023537
+Epoch 20, avg running_loss: 0.01967083103954792
+Epoch 20, avg running_loss: 0.021520325914025307
+Epoch 20, avg running_loss: 0.021563183516263962
+Epoch 20, avg running_loss: 0.02178001217544079
+Epoch 20, avg running_loss: 0.02334756590425968
+Epoch 20, avg running_loss: 0.02202402800321579
+Epoch 20, avg running_loss: 0.022697806358337402
+Epoch 20, avg running_loss: 0.02254076674580574
+Epoch 20, avg running_loss: 0.02277597039937973
+Epoch 20, avg running_loss: 0.0201951302587986
+Epoch 20, avg running_loss: 0.024171579629182816
+Epoch 20, avg running_loss: 0.024664564058184624
+Epoch 20, avg running_loss: 0.023603882640600204
+Epoch 20, avg running_loss: 0.02022833190858364
+Epoch 20, avg running_loss: 0.022537386044859886
+Validation for Epoch 20 starting:
+Training loss for 20:4.009392738342285
+Validation loss for 20:1.0603246688842773
+ 40%|████      | 20/50 [28:53<42:52, 85.75s/it]
+Training for Epoch 21 starting:
+Epoch 21, avg running_loss: 0.021684015169739723
+Epoch 21, avg running_loss: 0.020710228011012077
+Epoch 21, avg running_loss: 0.022796843200922012
+Epoch 21, avg running_loss: 0.02445964887738228
+Epoch 21, avg running_loss: 0.020928049460053444
+Epoch 21, avg running_loss: 0.020688308402895927
+Epoch 21, avg running_loss: 0.023100880905985832
+Epoch 21, avg running_loss: 0.020021658390760422
+Epoch 21, avg running_loss: 0.021342391148209572
+Epoch 21, avg running_loss: 0.02478248067200184
+Epoch 21, avg running_loss: 0.02018483355641365
+Epoch 21, avg running_loss: 0.02165527455508709
+Epoch 21, avg running_loss: 0.02125251293182373
+Epoch 21, avg running_loss: 0.020784996449947357
+Epoch 21, avg running_loss: 0.02442735806107521
+Epoch 21, avg running_loss: 0.020659741014242172
+Epoch 21, avg running_loss: 0.023564964532852173
+Epoch 21, avg running_loss: 0.02230318821966648
+Validation for Epoch 21 starting:
+Training loss for 21:3.953472852706909
+Validation loss for 21:1.0714552402496338
+ 42%|████▏     | 21/50 [30:18<41:21, 85.57s/it]
+Training for Epoch 22 starting:
+Epoch 22, avg running_loss: 0.023500120267271996
+Epoch 22, avg running_loss: 0.022231075912714005
+Epoch 22, avg running_loss: 0.019950799643993378
+Epoch 22, avg running_loss: 0.023759055882692337
+Epoch 22, avg running_loss: 0.020719921216368675
+Epoch 22, avg running_loss: 0.022949986159801483
+Epoch 22, avg running_loss: 0.022882048040628433
+Epoch 22, avg running_loss: 0.021527985110878944
+Epoch 22, avg running_loss: 0.023078007623553276
+Epoch 22, avg running_loss: 0.023184651508927345
+Epoch 22, avg running_loss: 0.021518047899007797
+Epoch 22, avg running_loss: 0.02172001823782921
+Epoch 22, avg running_loss: 0.02022694982588291
+Epoch 22, avg running_loss: 0.020712820813059807
+Epoch 22, avg running_loss: 0.02167653851211071
+Epoch 22, avg running_loss: 0.021395187824964523
+Epoch 22, avg running_loss: 0.019799351692199707
+Epoch 22, avg running_loss: 0.0241344403475523
+Validation for Epoch 22 starting:
+Training loss for 22:3.94966983795166
+Validation loss for 22:1.128041386604309
+ 44%|████▍     | 22/50 [31:43<39:52, 85.43s/it]
+Training for Epoch 23 starting:
+Epoch 23, avg running_loss: 0.02129485085606575
+Epoch 23, avg running_loss: 0.02055424451828003
+Epoch 23, avg running_loss: 0.021893899887800217
+Epoch 23, avg running_loss: 0.022408127784729004
+Epoch 23, avg running_loss: 0.02171976864337921
+Epoch 23, avg running_loss: 0.02334010973572731
+Epoch 23, avg running_loss: 0.02340603433549404
+Epoch 23, avg running_loss: 0.0212627612054348
+Epoch 23, avg running_loss: 0.020758407190442085
+Epoch 23, avg running_loss: 0.021044764667749405
+Epoch 23, avg running_loss: 0.02201412431895733
+Epoch 23, avg running_loss: 0.020861325785517693
+Epoch 23, avg running_loss: 0.022382697090506554
+Epoch 23, avg running_loss: 0.022670600563287735
+Epoch 23, avg running_loss: 0.023365750908851624
+Epoch 23, avg running_loss: 0.02262415736913681
+Epoch 23, avg running_loss: 0.02018563263118267
+Epoch 23, avg running_loss: 0.019134780392050743
+Validation for Epoch 23 starting:
+Training loss for 23:3.90921950340271
+Validation loss for 23:1.1206223964691162
+ 46%|████▌     | 23/50 [33:08<38:24, 85.36s/it]
+Training for Epoch 24 starting:
+Epoch 24, avg running_loss: 0.0218318160623312
+Epoch 24, avg running_loss: 0.020894985646009445
+Epoch 24, avg running_loss: 0.021019918844103813
+Epoch 24, avg running_loss: 0.021508393809199333
+Epoch 24, avg running_loss: 0.0222680252045393
+Epoch 24, avg running_loss: 0.02101477049291134
+Epoch 24, avg running_loss: 0.020989183336496353
+Epoch 24, avg running_loss: 0.02318400889635086
+Epoch 24, avg running_loss: 0.021825334057211876
+Epoch 24, avg running_loss: 0.02095884643495083
+Epoch 24, avg running_loss: 0.02044770121574402
+Epoch 24, avg running_loss: 0.019831029698252678
+Epoch 24, avg running_loss: 0.02149342931807041
+Epoch 24, avg running_loss: 0.021687548607587814
+Epoch 24, avg running_loss: 0.023046793416142464
+Epoch 24, avg running_loss: 0.02289881743490696
+Epoch 24, avg running_loss: 0.02250543050467968
+Epoch 24, avg running_loss: 0.022335710003972054
+Validation for Epoch 24 starting:
+Training loss for 24:3.8974175453186035
+Validation loss for 24:1.1280269622802734
+ 48%|████▊     | 24/50 [34:34<36:59, 85.36s/it]
+Training for Epoch 25 starting:
+Epoch 25, avg running_loss: 0.020935840904712677
+Epoch 25, avg running_loss: 0.023836761713027954
+Epoch 25, avg running_loss: 0.01985968090593815
+Epoch 25, avg running_loss: 0.023759733885526657
+Epoch 25, avg running_loss: 0.023182425647974014
+Epoch 25, avg running_loss: 0.020921718329191208
+Epoch 25, avg running_loss: 0.021831054240465164
+Epoch 25, avg running_loss: 0.021153990179300308
+Epoch 25, avg running_loss: 0.021167857572436333
+Epoch 25, avg running_loss: 0.021194351837038994
+Epoch 25, avg running_loss: 0.021133078262209892
+Epoch 25, avg running_loss: 0.020885832607746124
+Epoch 25, avg running_loss: 0.01967495121061802
+Epoch 25, avg running_loss: 0.023125335574150085
+Epoch 25, avg running_loss: 0.019296735525131226
+Epoch 25, avg running_loss: 0.022506842389702797
+Epoch 25, avg running_loss: 0.02158375456929207
+Epoch 25, avg running_loss: 0.021646125242114067
+Validation for Epoch 25 starting:
+Training loss for 25:3.8769614696502686
+Validation loss for 25:1.0962632894515991
+ 50%|█████     | 25/50 [35:59<35:31, 85.24s/it]
+Training for Epoch 26 starting:
+Epoch 26, avg running_loss: 0.02144671231508255
+Epoch 26, avg running_loss: 0.019979901611804962
+Epoch 26, avg running_loss: 0.02056615613400936
+Epoch 26, avg running_loss: 0.019889941439032555
+Epoch 26, avg running_loss: 0.02183251827955246
+Epoch 26, avg running_loss: 0.02024792693555355
+Epoch 26, avg running_loss: 0.021789511665701866
+Epoch 26, avg running_loss: 0.02230246365070343
+Epoch 26, avg running_loss: 0.020976688712835312
+Epoch 26, avg running_loss: 0.021086670458316803
+Epoch 26, avg running_loss: 0.022044694051146507
+Epoch 26, avg running_loss: 0.02143215946853161
+Epoch 26, avg running_loss: 0.02223985642194748
+Epoch 26, avg running_loss: 0.021460367366671562
+Epoch 26, avg running_loss: 0.023163311183452606
+Epoch 26, avg running_loss: 0.021635087206959724
+Epoch 26, avg running_loss: 0.021680768579244614
+Epoch 26, avg running_loss: 0.021812720224261284
+Validation for Epoch 26 starting:
+Training loss for 26:3.8558738231658936
+Validation loss for 26:1.1616593599319458
+ 52%|█████▏    | 26/50 [37:23<34:03, 85.14s/it]
+Training for Epoch 27 starting:
+Epoch 27, avg running_loss: 0.020608818158507347
+Epoch 27, avg running_loss: 0.024022629484534264
+Epoch 27, avg running_loss: 0.021078703925013542
+Epoch 27, avg running_loss: 0.023349424824118614
+Epoch 27, avg running_loss: 0.019501058384776115
+Epoch 27, avg running_loss: 0.020497215911746025
+Epoch 27, avg running_loss: 0.021823342889547348
+Epoch 27, avg running_loss: 0.019819997251033783
+Epoch 27, avg running_loss: 0.020588694140315056
+Epoch 27, avg running_loss: 0.020613258704543114
+Epoch 27, avg running_loss: 0.02201833389699459
+Epoch 27, avg running_loss: 0.021247105672955513
+Epoch 27, avg running_loss: 0.02126181684434414
+Epoch 27, avg running_loss: 0.022332606837153435
+Epoch 27, avg running_loss: 0.021621791645884514
+Epoch 27, avg running_loss: 0.02201567403972149
+Epoch 27, avg running_loss: 0.01995043270289898
+Epoch 27, avg running_loss: 0.01962203159928322
+Validation for Epoch 27 starting:
+Training loss for 27:3.8197288513183594
+Validation loss for 27:1.1739102602005005
+ 54%|█████▍    | 27/50 [38:48<32:36, 85.08s/it]
+Training for Epoch 28 starting:
+Epoch 28, avg running_loss: 0.02156214974820614
+Epoch 28, avg running_loss: 0.021537117660045624
+Epoch 28, avg running_loss: 0.022347986698150635
+Epoch 28, avg running_loss: 0.020634684711694717
+Epoch 28, avg running_loss: 0.019516879692673683
+Epoch 28, avg running_loss: 0.0214336346834898
+Epoch 28, avg running_loss: 0.021572772413492203
+Epoch 28, avg running_loss: 0.021274926140904427
+Epoch 28, avg running_loss: 0.02101127617061138
+Epoch 28, avg running_loss: 0.02086225152015686
+Epoch 28, avg running_loss: 0.021435324102640152
+Epoch 28, avg running_loss: 0.021035654470324516
+Epoch 28, avg running_loss: 0.020907586440443993
+Epoch 28, avg running_loss: 0.024852687492966652
+Epoch 28, avg running_loss: 0.01894296705722809
+Epoch 28, avg running_loss: 0.02169068716466427
+Epoch 28, avg running_loss: 0.020904337987303734
+Epoch 28, avg running_loss: 0.021761775016784668
+Validation for Epoch 28 starting:
+Training loss for 28:3.8328471183776855
+Validation loss for 28:1.1183342933654785
+ 56%|█████▌    | 28/50 [40:13<31:10, 85.03s/it]
+Training for Epoch 29 starting:
+Epoch 29, avg running_loss: 0.021291358396410942
+Epoch 29, avg running_loss: 0.022915411740541458
+Epoch 29, avg running_loss: 0.019497321918606758
+Epoch 29, avg running_loss: 0.022120347246527672
+Epoch 29, avg running_loss: 0.02065098099410534
+Epoch 29, avg running_loss: 0.019650747999548912
+Epoch 29, avg running_loss: 0.02208399586379528
+Epoch 29, avg running_loss: 0.02238466963171959
+Epoch 29, avg running_loss: 0.020968306809663773
+Epoch 29, avg running_loss: 0.020321538671851158
+Epoch 29, avg running_loss: 0.021258434280753136
+Epoch 29, avg running_loss: 0.019224075600504875
+Epoch 29, avg running_loss: 0.024374887347221375
+Epoch 29, avg running_loss: 0.020854061469435692
+Epoch 29, avg running_loss: 0.02086544781923294
+Epoch 29, avg running_loss: 0.021106282249093056
+Epoch 29, avg running_loss: 0.02035246044397354
+Epoch 29, avg running_loss: 0.019151506945490837
+Validation for Epoch 29 starting:
+Training loss for 29:3.790717124938965
+Validation loss for 29:1.1860018968582153
+ 58%|█████▊    | 29/50 [41:38<29:45, 85.00s/it]
+Training for Epoch 30 starting:
+Epoch 30, avg running_loss: 0.01958571933209896
+Epoch 30, avg running_loss: 0.020338816568255424
+Epoch 30, avg running_loss: 0.020340990275144577
+Epoch 30, avg running_loss: 0.01889762096107006
+Epoch 30, avg running_loss: 0.020742936059832573
+Epoch 30, avg running_loss: 0.021959206089377403
+Epoch 30, avg running_loss: 0.01984216831624508
+Epoch 30, avg running_loss: 0.020871160551905632
+Epoch 30, avg running_loss: 0.02112402580678463
+Epoch 30, avg running_loss: 0.021007047966122627
+Epoch 30, avg running_loss: 0.02034945785999298
+Epoch 30, avg running_loss: 0.021774981170892715
+Epoch 30, avg running_loss: 0.01925022341310978
+Epoch 30, avg running_loss: 0.023601023480296135
+Epoch 30, avg running_loss: 0.02182471565902233
+Epoch 30, avg running_loss: 0.022925255820155144
+Epoch 30, avg running_loss: 0.0206601545214653
+Epoch 30, avg running_loss: 0.019877374172210693
+Validation for Epoch 30 starting:
+Training loss for 30:3.749728202819824
+Validation loss for 30:1.1392569541931152
+ 60%|██████    | 30/50 [43:03<28:19, 84.96s/it]
+Training for Epoch 31 starting:
+Epoch 31, avg running_loss: 0.021851589903235435
+Epoch 31, avg running_loss: 0.01924883760511875
+Epoch 31, avg running_loss: 0.019190941005945206
+Epoch 31, avg running_loss: 0.02262621372938156
+Epoch 31, avg running_loss: 0.02144770324230194
+Epoch 31, avg running_loss: 0.019415900111198425
+Epoch 31, avg running_loss: 0.020934341475367546
+Epoch 31, avg running_loss: 0.021022776141762733
+Epoch 31, avg running_loss: 0.020222216844558716
+Epoch 31, avg running_loss: 0.02224849723279476
+Epoch 31, avg running_loss: 0.023859545588493347
+Epoch 31, avg running_loss: 0.01916317455470562
+Epoch 31, avg running_loss: 0.022027328610420227
+Epoch 31, avg running_loss: 0.020660458132624626
+Epoch 31, avg running_loss: 0.02188996970653534
+Epoch 31, avg running_loss: 0.021742720156908035
+Epoch 31, avg running_loss: 0.019472861662507057
+Epoch 31, avg running_loss: 0.019173728302121162
+Validation for Epoch 31 starting:
+Training loss for 31:3.7619881629943848
+Validation loss for 31:1.1765803098678589
+ 62%|██████▏   | 31/50 [44:28<26:54, 84.95s/it]
+Training for Epoch 32 starting:
+Epoch 32, avg running_loss: 0.021870514377951622
+Epoch 32, avg running_loss: 0.020089909434318542
+Epoch 32, avg running_loss: 0.018553363159298897
+Epoch 32, avg running_loss: 0.01958879455924034
+Epoch 32, avg running_loss: 0.02120361104607582
+Epoch 32, avg running_loss: 0.018909797072410583
+Epoch 32, avg running_loss: 0.02221549116075039
+Epoch 32, avg running_loss: 0.022711774334311485
+Epoch 32, avg running_loss: 0.024418264627456665
+Epoch 32, avg running_loss: 0.020954426378011703
+Epoch 32, avg running_loss: 0.02241482213139534
+Epoch 32, avg running_loss: 0.019885076209902763
+Epoch 32, avg running_loss: 0.02113979682326317
+Epoch 32, avg running_loss: 0.018592802807688713
+Epoch 32, avg running_loss: 0.02012583613395691
+Epoch 32, avg running_loss: 0.019588282331824303
+Epoch 32, avg running_loss: 0.019142646342515945
+Epoch 32, avg running_loss: 0.021272314712405205
+Validation for Epoch 32 starting:
+Training loss for 32:3.726775646209717
+Validation loss for 32:1.1825079917907715
+ 64%|██████▍   | 32/50 [45:53<25:28, 84.92s/it]
+Training for Epoch 33 starting:
+Epoch 33, avg running_loss: 0.02006782405078411
+Epoch 33, avg running_loss: 0.020173801109194756
+Epoch 33, avg running_loss: 0.020382491871714592
+Epoch 33, avg running_loss: 0.023440321907401085
+Epoch 33, avg running_loss: 0.021444832906126976
+Epoch 33, avg running_loss: 0.021397387608885765
+Epoch 33, avg running_loss: 0.02145513892173767
+Epoch 33, avg running_loss: 0.020806340500712395
+Epoch 33, avg running_loss: 0.01996542699635029
+Epoch 33, avg running_loss: 0.019638052210211754
+Epoch 33, avg running_loss: 0.021736234426498413
+Epoch 33, avg running_loss: 0.019430581480264664
+Epoch 33, avg running_loss: 0.022008411586284637
+Epoch 33, avg running_loss: 0.01948886178433895
+Epoch 33, avg running_loss: 0.020720651373267174
+Epoch 33, avg running_loss: 0.021119514480233192
+Epoch 33, avg running_loss: 0.020244553685188293
+Epoch 33, avg running_loss: 0.0186027679592371
+Validation for Epoch 33 starting:
+Training loss for 33:3.7212321758270264
+Validation loss for 33:1.2075655460357666
+ 66%|██████▌   | 33/50 [47:18<24:03, 84.91s/it]
+Training for Epoch 34 starting:
+Epoch 34, avg running_loss: 0.020778803154826164
+Epoch 34, avg running_loss: 0.019888577982783318
+Epoch 34, avg running_loss: 0.021866096183657646
+Epoch 34, avg running_loss: 0.02226637303829193
+Epoch 34, avg running_loss: 0.018872765824198723
+Epoch 34, avg running_loss: 0.02138698659837246
+Epoch 34, avg running_loss: 0.02086973749101162
+Epoch 34, avg running_loss: 0.0198568943887949
+Epoch 34, avg running_loss: 0.02250334993004799
+Epoch 34, avg running_loss: 0.018907494843006134
+Epoch 34, avg running_loss: 0.020702291280031204
+Epoch 34, avg running_loss: 0.02124778926372528
+Epoch 34, avg running_loss: 0.020814649760723114
+Epoch 34, avg running_loss: 0.019213814288377762
+Epoch 34, avg running_loss: 0.020035814493894577
+Epoch 34, avg running_loss: 0.019454438239336014
+Epoch 34, avg running_loss: 0.020049991086125374
+Epoch 34, avg running_loss: 0.01903488300740719
+Validation for Epoch 34 starting:
+Training loss for 34:3.677507162094116
+Validation loss for 34:1.2100492715835571
+ 68%|██████▊   | 34/50 [48:43<22:38, 84.93s/it]
+Training for Epoch 35 starting:
+Epoch 35, avg running_loss: 0.020177017897367477
+Epoch 35, avg running_loss: 0.021268809214234352
+Epoch 35, avg running_loss: 0.021261367946863174
+Epoch 35, avg running_loss: 0.0207102932035923
+Epoch 35, avg running_loss: 0.019484596326947212
+Epoch 35, avg running_loss: 0.021508386358618736
+Epoch 35, avg running_loss: 0.01968979835510254
+Epoch 35, avg running_loss: 0.020298123359680176
+Epoch 35, avg running_loss: 0.020391415804624557
+Epoch 35, avg running_loss: 0.02246144227683544
+Epoch 35, avg running_loss: 0.019483856856822968
+Epoch 35, avg running_loss: 0.01822490245103836
+Epoch 35, avg running_loss: 0.019298233091831207
+Epoch 35, avg running_loss: 0.02190542034804821
+Epoch 35, avg running_loss: 0.0208901297301054
+Epoch 35, avg running_loss: 0.019620900973677635
+Epoch 35, avg running_loss: 0.021022899076342583
+Epoch 35, avg running_loss: 0.02044893614947796
+Validation for Epoch 35 starting:
+Training loss for 35:3.6814656257629395
+Validation loss for 35:1.1536657810211182
+ 70%|███████   | 35/50 [50:08<21:14, 84.95s/it]
+Training for Epoch 36 starting:
+Epoch 36, avg running_loss: 0.02027580514550209
+Epoch 36, avg running_loss: 0.020674848929047585
+Epoch 36, avg running_loss: 0.020513419061899185
+Epoch 36, avg running_loss: 0.019425082951784134
+Epoch 36, avg running_loss: 0.019897393882274628
+Epoch 36, avg running_loss: 0.021381942555308342
+Epoch 36, avg running_loss: 0.02102760225534439
+Epoch 36, avg running_loss: 0.01938423328101635
+Epoch 36, avg running_loss: 0.02088186703622341
+Epoch 36, avg running_loss: 0.020773405209183693
+Epoch 36, avg running_loss: 0.018725160509347916
+Epoch 36, avg running_loss: 0.02177474834024906
+Epoch 36, avg running_loss: 0.020824691280722618
+Epoch 36, avg running_loss: 0.02026301994919777
+Epoch 36, avg running_loss: 0.020263247191905975
+Epoch 36, avg running_loss: 0.0213991217315197
+Epoch 36, avg running_loss: 0.01997973583638668
+Epoch 36, avg running_loss: 0.019832218065857887
+Validation for Epoch 36 starting:
+Training loss for 36:3.6729753017425537
+Validation loss for 36:1.169324278831482
+ 72%|███████▏  | 36/50 [51:33<19:49, 84.95s/it]
+Training for Epoch 37 starting:
+Epoch 37, avg running_loss: 0.018691033124923706
+Epoch 37, avg running_loss: 0.018728038296103477
+Epoch 37, avg running_loss: 0.021529454737901688
+Epoch 37, avg running_loss: 0.020261073485016823
+Epoch 37, avg running_loss: 0.018522514030337334
+Epoch 37, avg running_loss: 0.02113436721265316
+Epoch 37, avg running_loss: 0.020762329921126366
+Epoch 37, avg running_loss: 0.021157648414373398
+Epoch 37, avg running_loss: 0.020964475348591805
+Epoch 37, avg running_loss: 0.01907094195485115
+Epoch 37, avg running_loss: 0.024959219619631767
+Epoch 37, avg running_loss: 0.019997863098978996
+Epoch 37, avg running_loss: 0.020260674878954887
+Epoch 37, avg running_loss: 0.020250314846634865
+Epoch 37, avg running_loss: 0.01995946653187275
+Epoch 37, avg running_loss: 0.01822378858923912
+Epoch 37, avg running_loss: 0.01952744834125042
+Epoch 37, avg running_loss: 0.02017098478972912
+Validation for Epoch 37 starting:
+Training loss for 37:3.641716241836548
+Validation loss for 37:1.2056655883789062
+ 74%|███████▍  | 37/50 [52:58<18:24, 84.95s/it]
+Training for Epoch 38 starting:
+Epoch 38, avg running_loss: 0.0206522885710001
+Epoch 38, avg running_loss: 0.019127747043967247
+Epoch 38, avg running_loss: 0.020388320088386536
+Epoch 38, avg running_loss: 0.019259510561823845
+Epoch 38, avg running_loss: 0.018545672297477722
+Epoch 38, avg running_loss: 0.021435407921671867
+Epoch 38, avg running_loss: 0.020342782139778137
+Epoch 38, avg running_loss: 0.018919549882411957
+Epoch 38, avg running_loss: 0.01867690496146679
+Epoch 38, avg running_loss: 0.019297970458865166
+Epoch 38, avg running_loss: 0.020268818363547325
+Epoch 38, avg running_loss: 0.022425903007388115
+Epoch 38, avg running_loss: 0.020369017496705055
+Epoch 38, avg running_loss: 0.020998774096369743
+Epoch 38, avg running_loss: 0.019710442051291466
+Epoch 38, avg running_loss: 0.020432977005839348
+Epoch 38, avg running_loss: 0.01987428031861782
+Epoch 38, avg running_loss: 0.020849749445915222
+Validation for Epoch 38 starting:
+Training loss for 38:3.615760564804077
+Validation loss for 38:1.2185795307159424
+ 76%|███████▌  | 38/50 [54:22<16:58, 84.92s/it]
+Training for Epoch 39 starting:
+Epoch 39, avg running_loss: 0.018788721412420273
+Epoch 39, avg running_loss: 0.0194618571549654
+Epoch 39, avg running_loss: 0.0195267666131258
+Epoch 39, avg running_loss: 0.020342985168099403
+Epoch 39, avg running_loss: 0.02105938456952572
+Epoch 39, avg running_loss: 0.02060459367930889
+Epoch 39, avg running_loss: 0.020051952451467514
+Epoch 39, avg running_loss: 0.02203822135925293
+Epoch 39, avg running_loss: 0.021859755739569664
+Epoch 39, avg running_loss: 0.018822941929101944
+Epoch 39, avg running_loss: 0.018784908577799797
+Epoch 39, avg running_loss: 0.020319173112511635
+Epoch 39, avg running_loss: 0.020039839670062065
+Epoch 39, avg running_loss: 0.019784193485975266
+Epoch 39, avg running_loss: 0.0191982239484787
+Epoch 39, avg running_loss: 0.018371183425188065
+Epoch 39, avg running_loss: 0.021549150347709656
+Epoch 39, avg running_loss: 0.021100163459777832
+Validation for Epoch 39 starting:
+Training loss for 39:3.6170413494110107
+Validation loss for 39:1.2374401092529297
+ 78%|███████▊  | 39/50 [55:47<15:33, 84.91s/it]
+Training for Epoch 40 starting:
+Epoch 40, avg running_loss: 0.019964976236224174
+Epoch 40, avg running_loss: 0.02170291356742382
+Epoch 40, avg running_loss: 0.020233649760484695
+Epoch 40, avg running_loss: 0.020898781716823578
+Epoch 40, avg running_loss: 0.020967848598957062
+Epoch 40, avg running_loss: 0.019586795940995216
+Epoch 40, avg running_loss: 0.019922662526369095
+Epoch 40, avg running_loss: 0.019960088655352592
+Epoch 40, avg running_loss: 0.019271578639745712
+Epoch 40, avg running_loss: 0.019326509907841682
+Epoch 40, avg running_loss: 0.02072511799633503
+Epoch 40, avg running_loss: 0.021324310451745987
+Epoch 40, avg running_loss: 0.018484951928257942
+Epoch 40, avg running_loss: 0.018070386722683907
+Epoch 40, avg running_loss: 0.01823921874165535
+Epoch 40, avg running_loss: 0.019086750224232674
+Epoch 40, avg running_loss: 0.01988360844552517
+Epoch 40, avg running_loss: 0.01951329968869686
+Validation for Epoch 40 starting:
+Training loss for 40:3.5716350078582764
+Validation loss for 40:1.2661889791488647
+ 80%|████████  | 40/50 [57:12<14:08, 84.88s/it]
+Training for Epoch 41 starting:
+Epoch 41, avg running_loss: 0.018426286056637764
+Epoch 41, avg running_loss: 0.019240304827690125
+Epoch 41, avg running_loss: 0.020114732906222343
+Epoch 41, avg running_loss: 0.020598972216248512
+Epoch 41, avg running_loss: 0.01830875128507614
+Epoch 41, avg running_loss: 0.019741758704185486
+Epoch 41, avg running_loss: 0.019963247701525688
+Epoch 41, avg running_loss: 0.019058076664805412
+Epoch 41, avg running_loss: 0.019106712192296982
+Epoch 41, avg running_loss: 0.019090792164206505
+Epoch 41, avg running_loss: 0.022729389369487762
+Epoch 41, avg running_loss: 0.020396580919623375
+Epoch 41, avg running_loss: 0.020752042531967163
+Epoch 41, avg running_loss: 0.019199851900339127
+Epoch 41, avg running_loss: 0.019223501905798912
+Epoch 41, avg running_loss: 0.01995060406625271
+Epoch 41, avg running_loss: 0.020687507465481758
+Epoch 41, avg running_loss: 0.02091936580836773
+Validation for Epoch 41 starting:
+Training loss for 41:3.575085163116455
+Validation loss for 41:1.2019224166870117
+ 82%|████████▏ | 41/50 [58:37<12:43, 84.87s/it]
+Training for Epoch 42 starting:
+Epoch 42, avg running_loss: 0.02077079378068447
+Epoch 42, avg running_loss: 0.01985008828341961
+Epoch 42, avg running_loss: 0.018962997943162918
+Epoch 42, avg running_loss: 0.019976815208792686
+Epoch 42, avg running_loss: 0.019106866791844368
+Epoch 42, avg running_loss: 0.018687190487980843
+Epoch 42, avg running_loss: 0.01929359883069992
+Epoch 42, avg running_loss: 0.018583260476589203
+Epoch 42, avg running_loss: 0.019392328336834908
+Epoch 42, avg running_loss: 0.019066518172621727
+Epoch 42, avg running_loss: 0.019510826095938683
+Epoch 42, avg running_loss: 0.01979191228747368
+Epoch 42, avg running_loss: 0.02111033909022808
+Epoch 42, avg running_loss: 0.02041776292026043
+Epoch 42, avg running_loss: 0.02051808126270771
+Epoch 42, avg running_loss: 0.01906438171863556
+Epoch 42, avg running_loss: 0.022000476717948914
+Epoch 42, avg running_loss: 0.018876804038882256
+Validation for Epoch 42 starting:
+Training loss for 42:3.5498104095458984
+Validation loss for 42:1.26737642288208
+ 84%|████████▍ | 42/50 [1:00:02<11:18, 84.87s/it]
+Training for Epoch 43 starting:
+Epoch 43, avg running_loss: 0.020531849935650826
+Epoch 43, avg running_loss: 0.019337907433509827
+Epoch 43, avg running_loss: 0.018270736560225487
+Epoch 43, avg running_loss: 0.018222037702798843
+Epoch 43, avg running_loss: 0.019369343295693398
+Epoch 43, avg running_loss: 0.02038724347949028
+Epoch 43, avg running_loss: 0.01999616250395775
+Epoch 43, avg running_loss: 0.01946275494992733
+Epoch 43, avg running_loss: 0.01762106828391552
+Epoch 43, avg running_loss: 0.022763298824429512
+Epoch 43, avg running_loss: 0.018436210229992867
+Epoch 43, avg running_loss: 0.017959127202630043
+Epoch 43, avg running_loss: 0.02159372717142105
+Epoch 43, avg running_loss: 0.018932895734906197
+Epoch 43, avg running_loss: 0.019102392718195915
+Epoch 43, avg running_loss: 0.02027694322168827
+Epoch 43, avg running_loss: 0.01950858160853386
+Epoch 43, avg running_loss: 0.02122459001839161
+Validation for Epoch 43 starting:
+Training loss for 43:3.5299694538116455
+Validation loss for 43:1.2361358404159546
+ 86%|████████▌ | 43/50 [1:01:27<09:54, 84.87s/it]
+Training for Epoch 44 starting:
+Epoch 44, avg running_loss: 0.018349463120102882
+Epoch 44, avg running_loss: 0.018671194091439247
+Epoch 44, avg running_loss: 0.01904158852994442
+Epoch 44, avg running_loss: 0.019142910838127136
+Epoch 44, avg running_loss: 0.019318586215376854
+Epoch 44, avg running_loss: 0.020971650257706642
+Epoch 44, avg running_loss: 0.01963895373046398
+Epoch 44, avg running_loss: 0.019533677026629448
+Epoch 44, avg running_loss: 0.01956394873559475
+Epoch 44, avg running_loss: 0.020770831033587456
+Epoch 44, avg running_loss: 0.019827499985694885
+Epoch 44, avg running_loss: 0.020680591464042664
+Epoch 44, avg running_loss: 0.019703205674886703
+Epoch 44, avg running_loss: 0.020374519750475883
+Epoch 44, avg running_loss: 0.018373817205429077
+Epoch 44, avg running_loss: 0.01805705949664116
+Epoch 44, avg running_loss: 0.021173764020204544
+Epoch 44, avg running_loss: 0.019885599613189697
+Validation for Epoch 44 starting:
+Training loss for 44:3.5307888984680176
+Validation loss for 44:1.2479453086853027
+ 88%|████████▊ | 44/50 [1:02:52<08:29, 84.86s/it]
+Training for Epoch 45 starting:
+Epoch 45, avg running_loss: 0.01977953128516674
+Epoch 45, avg running_loss: 0.02080429345369339
+Epoch 45, avg running_loss: 0.018557259812951088
+Epoch 45, avg running_loss: 0.01853925548493862
+Epoch 45, avg running_loss: 0.01853545941412449
+Epoch 45, avg running_loss: 0.019902698695659637
+Epoch 45, avg running_loss: 0.019635874778032303
+Epoch 45, avg running_loss: 0.019168414175510406
+Epoch 45, avg running_loss: 0.016122473403811455
+Epoch 45, avg running_loss: 0.021370630711317062
+Epoch 45, avg running_loss: 0.020908262580633163
+Epoch 45, avg running_loss: 0.0192352756857872
+Epoch 45, avg running_loss: 0.019447384402155876
+Epoch 45, avg running_loss: 0.018447671085596085
+Epoch 45, avg running_loss: 0.020504826679825783
+Epoch 45, avg running_loss: 0.020217468962073326
+Epoch 45, avg running_loss: 0.020117342472076416
+Epoch 45, avg running_loss: 0.01887628808617592
+Validation for Epoch 45 starting:
+Training loss for 45:3.501704216003418
+Validation loss for 45:1.2656782865524292
+ 90%|█████████ | 45/50 [1:04:17<07:04, 84.88s/it]
+Training for Epoch 46 starting:
+Epoch 46, avg running_loss: 0.018863841891288757
+Epoch 46, avg running_loss: 0.020481068640947342
+Epoch 46, avg running_loss: 0.02004854567348957
+Epoch 46, avg running_loss: 0.019779032096266747
+Epoch 46, avg running_loss: 0.019529512152075768
+Epoch 46, avg running_loss: 0.019870178773999214
+Epoch 46, avg running_loss: 0.01921018771827221
+Epoch 46, avg running_loss: 0.01856493391096592
+Epoch 46, avg running_loss: 0.018078243359923363
+Epoch 46, avg running_loss: 0.019449515268206596
+Epoch 46, avg running_loss: 0.01815522275865078
+Epoch 46, avg running_loss: 0.020286982879042625
+Epoch 46, avg running_loss: 0.0197692159563303
+Epoch 46, avg running_loss: 0.01994297280907631
+Epoch 46, avg running_loss: 0.01910208910703659
+Epoch 46, avg running_loss: 0.020044220611453056
+Epoch 46, avg running_loss: 0.017630700021982193
+Epoch 46, avg running_loss: 0.020191475749015808
+Validation for Epoch 46 starting:
+Training loss for 46:3.489981174468994
+Validation loss for 46:1.2593169212341309
+ 92%|█████████▏| 46/50 [1:05:41<05:39, 84.87s/it]
+Training for Epoch 47 starting:
+Epoch 47, avg running_loss: 0.022990522906184196
+Epoch 47, avg running_loss: 0.02016010694205761
+Epoch 47, avg running_loss: 0.01922469399869442
+Epoch 47, avg running_loss: 0.01800568215548992
+Epoch 47, avg running_loss: 0.018802901729941368
+Epoch 47, avg running_loss: 0.019776958972215652
+Epoch 47, avg running_loss: 0.018202001228928566
+Epoch 47, avg running_loss: 0.018311426043510437
+Epoch 47, avg running_loss: 0.018721848726272583
+Epoch 47, avg running_loss: 0.021137474104762077
+Epoch 47, avg running_loss: 0.020213639363646507
+Epoch 47, avg running_loss: 0.017869308590888977
+Epoch 47, avg running_loss: 0.020007668063044548
+Epoch 47, avg running_loss: 0.018954530358314514
+Epoch 47, avg running_loss: 0.018227726221084595
+Epoch 47, avg running_loss: 0.01814098469913006
+Epoch 47, avg running_loss: 0.019350459799170494
+Epoch 47, avg running_loss: 0.02010761760175228
+Validation for Epoch 47 starting:
+Training loss for 47:3.482055425643921
+Validation loss for 47:1.2713288068771362
+ 94%|█████████▍| 47/50 [1:07:06<04:14, 84.88s/it]
+Training for Epoch 48 starting:
+Epoch 48, avg running_loss: 0.01921742781996727
+Epoch 48, avg running_loss: 0.01950944773852825
+Epoch 48, avg running_loss: 0.019985120743513107
+Epoch 48, avg running_loss: 0.019212206825613976
+Epoch 48, avg running_loss: 0.01977202109992504
+Epoch 48, avg running_loss: 0.018805531784892082
+Epoch 48, avg running_loss: 0.01853840798139572
+Epoch 48, avg running_loss: 0.020171597599983215
+Epoch 48, avg running_loss: 0.019296716898679733
+Epoch 48, avg running_loss: 0.02006075344979763
+Epoch 48, avg running_loss: 0.017586683854460716
+Epoch 48, avg running_loss: 0.020380469039082527
+Epoch 48, avg running_loss: 0.018980300053954124
+Epoch 48, avg running_loss: 0.018257249146699905
+Epoch 48, avg running_loss: 0.01873883605003357
+Epoch 48, avg running_loss: 0.017977101728320122
+Epoch 48, avg running_loss: 0.021774834021925926
+Epoch 48, avg running_loss: 0.0183093398809433
+Validation for Epoch 48 starting:
+Training loss for 48:3.4657399654388428
+Validation loss for 48:1.2636909484863281
+ 96%|█████████▌| 48/50 [1:08:31<02:49, 84.87s/it]
+Training for Epoch 49 starting:
+Epoch 49, avg running_loss: 0.019229214638471603
+Epoch 49, avg running_loss: 0.017800256609916687
+Epoch 49, avg running_loss: 0.01985030248761177
+Epoch 49, avg running_loss: 0.018485136330127716
+Epoch 49, avg running_loss: 0.01885814033448696
+Epoch 49, avg running_loss: 0.017917366698384285
+Epoch 49, avg running_loss: 0.019039232283830643
+Epoch 49, avg running_loss: 0.018621383234858513
+Epoch 49, avg running_loss: 0.018519088625907898
+Epoch 49, avg running_loss: 0.01978853903710842
+Epoch 49, avg running_loss: 0.01924930140376091
+Epoch 49, avg running_loss: 0.01875278167426586
+Epoch 49, avg running_loss: 0.019609251990914345
+Epoch 49, avg running_loss: 0.019903918728232384
+Epoch 49, avg running_loss: 0.019115017727017403
+Epoch 49, avg running_loss: 0.01813877932727337
+Epoch 49, avg running_loss: 0.021050386130809784
+Epoch 49, avg running_loss: 0.021367523819208145
+Validation for Epoch 49 starting:
+Training loss for 49:3.4529550075531006
+Validation loss for 49:1.2638856172561646
+ 98%|█████████▊| 49/50 [1:09:56<01:24, 84.85s/it]
+Training for Epoch 50 starting:
+Epoch 50, avg running_loss: 0.019908858463168144
+Epoch 50, avg running_loss: 0.01770845614373684
+Epoch 50, avg running_loss: 0.01781880296766758
+Epoch 50, avg running_loss: 0.01845308393239975
+Epoch 50, avg running_loss: 0.01820666901767254
+Epoch 50, avg running_loss: 0.0202310923486948
+Epoch 50, avg running_loss: 0.019015466794371605
+Epoch 50, avg running_loss: 0.020144527778029442
+Epoch 50, avg running_loss: 0.02086583524942398
+Epoch 50, avg running_loss: 0.018880795687437057
+Epoch 50, avg running_loss: 0.0187397338449955
+Epoch 50, avg running_loss: 0.018643541261553764
+Epoch 50, avg running_loss: 0.019489184021949768
+Epoch 50, avg running_loss: 0.01980527676641941
+Epoch 50, avg running_loss: 0.01849490962922573
+Epoch 50, avg running_loss: 0.01850677840411663
+Epoch 50, avg running_loss: 0.02106889896094799
+Epoch 50, avg running_loss: 0.018567418679594994
+Validation for Epoch 50 starting:
+Training loss for 50:3.445493459701538
+Validation loss for 50:1.2654540538787842
+100%|██████████| 50/50 [1:11:21<00:00, 85.62s/it]
